@@ -12,7 +12,7 @@ SRC=src
 : ${REPO:=git://git.minix3.org/minix}
 : ${GITBRANCH:=master}
 : ${BUILDOPTIONS:=}
-
+# Test comment
 # List of packages included on installation media
 PACKAGELIST=packages.install
 secs=`expr 32 '*' 64`
