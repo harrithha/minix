@@ -1,0 +1,2842 @@
+sizeup ioctl: Inappropriate ioctl for device
+dynamically sized filesystem: 902 blocks, 481 inodes
+cat: /usr/src/etc/etc.i386/rc.conf.append: No such file or directory
+eval: cannot open /etc/hosts: no such file
+diff: /etc/hosts: No such file or directory
+db: not found
+find: -user: _rwhod: no such user
+mknod: ram: File exists
+mknod: mem: File exists
+mknod: kmem: File exists
+mknod: null: File exists
+mknod: boot: File exists
+mknod: zero: File exists
+mknod: imgrd: File exists
+mknod: ram0: File exists
+mknod: ram1: File exists
+mknod: ram2: File exists
+mknod: ram3: File exists
+mknod: ram4: File exists
+mknod: ram5: File exists
+mknod: console: File exists
+mknod: tty: File exists
+mknod: lp: File exists
+mknod: log: File exists
+mknod: video: File exists
+mknod: kbdmux: File exists
+mknod: mousemux: File exists
+mknod: kbd0: File exists
+mknod: mouse0: File exists
+mknod: kbd1: File exists
+mknod: mouse1: File exists
+mknod: kbd2: File exists
+mknod: mouse2: File exists
+mknod: kbd3: File exists
+mknod: mouse3: File exists
+mknod: c0d0: File exists
+mknod: c0d0p0: File exists
+mknod: c0d0p1: File exists
+mknod: c0d0p2: File exists
+mknod: c0d0p3: File exists
+mknod: c0d0p0s0: File exists
+mknod: c0d0p0s1: File exists
+mknod: c0d0p0s2: File exists
+mknod: c0d0p0s3: File exists
+mknod: c0d0p1s0: File exists
+mknod: c0d0p1s1: File exists
+mknod: c0d0p1s2: File exists
+mknod: c0d0p1s3: File exists
+mknod: c0d0p2s0: File exists
+mknod: c0d0p2s1: File exists
+mknod: c0d0p2s2: File exists
+mknod: c0d0p2s3: File exists
+mknod: c0d0p3s0: File exists
+mknod: c0d0p3s1: File exists
+mknod: c0d0p3s2: File exists
+mknod: c0d0p3s3: File exists
+mknod: c0d1: File exists
+mknod: c0d1p0: File exists
+mknod: c0d1p1: File exists
+mknod: c0d1p2: File exists
+mknod: c0d1p3: File exists
+mknod: c0d1p0s0: File exists
+mknod: c0d1p0s1: File exists
+mknod: c0d1p0s2: File exists
+mknod: c0d1p0s3: File exists
+mknod: c0d1p1s0: File exists
+mknod: c0d1p1s1: File exists
+mknod: c0d1p1s2: File exists
+mknod: c0d1p1s3: File exists
+mknod: c0d1p2s0: File exists
+mknod: c0d1p2s1: File exists
+mknod: c0d1p2s2: File exists
+mknod: c0d1p2s3: File exists
+mknod: c0d1p3s0: File exists
+mknod: c0d1p3s1: File exists
+mknod: c0d1p3s2: File exists
+mknod: c0d1p3s3: File exists
+mknod: c0d2: File exists
+mknod: c0d2p0: File exists
+mknod: c0d2p1: File exists
+mknod: c0d2p2: File exists
+mknod: c0d2p3: File exists
+mknod: c0d2p0s0: File exists
+mknod: c0d2p0s1: File exists
+mknod: c0d2p0s2: File exists
+mknod: c0d2p0s3: File exists
+mknod: c0d2p1s0: File exists
+mknod: c0d2p1s1: File exists
+mknod: c0d2p1s2: File exists
+mknod: c0d2p1s3: File exists
+mknod: c0d2p2s0: File exists
+mknod: c0d2p2s1: File exists
+mknod: c0d2p2s2: File exists
+mknod: c0d2p2s3: File exists
+mknod: c0d2p3s0: File exists
+mknod: c0d2p3s1: File exists
+mknod: c0d2p3s2: File exists
+mknod: c0d2p3s3: File exists
+mknod: c0d3: File exists
+mknod: c0d3p0: File exists
+mknod: c0d3p1: File exists
+mknod: c0d3p2: File exists
+mknod: c0d3p3: File exists
+mknod: c0d3p0s0: File exists
+mknod: c0d3p0s1: File exists
+mknod: c0d3p0s2: File exists
+mknod: c0d3p0s3: File exists
+mknod: c0d3p1s0: File exists
+mknod: c0d3p1s1: File exists
+mknod: c0d3p1s2: File exists
+mknod: c0d3p1s3: File exists
+mknod: c0d3p2s0: File exists
+mknod: c0d3p2s1: File exists
+mknod: c0d3p2s2: File exists
+mknod: c0d3p2s3: File exists
+mknod: c0d3p3s0: File exists
+mknod: c0d3p3s1: File exists
+mknod: c0d3p3s2: File exists
+mknod: c0d3p3s3: File exists
+mknod: c0d4: File exists
+mknod: c0d4p0: File exists
+mknod: c0d4p1: File exists
+mknod: c0d4p2: File exists
+mknod: c0d4p3: File exists
+mknod: c0d4p0s0: File exists
+mknod: c0d4p0s1: File exists
+mknod: c0d4p0s2: File exists
+mknod: c0d4p0s3: File exists
+mknod: c0d4p1s0: File exists
+mknod: c0d4p1s1: File exists
+mknod: c0d4p1s2: File exists
+mknod: c0d4p1s3: File exists
+mknod: c0d4p2s0: File exists
+mknod: c0d4p2s1: File exists
+mknod: c0d4p2s2: File exists
+mknod: c0d4p2s3: File exists
+mknod: c0d4p3s0: File exists
+mknod: c0d4p3s1: File exists
+mknod: c0d4p3s2: File exists
+mknod: c0d4p3s3: File exists
+mknod: c0d5: File exists
+mknod: c0d5p0: File exists
+mknod: c0d5p1: File exists
+mknod: c0d5p2: File exists
+mknod: c0d5p3: File exists
+mknod: c0d5p0s0: File exists
+mknod: c0d5p0s1: File exists
+mknod: c0d5p0s2: File exists
+mknod: c0d5p0s3: File exists
+mknod: c0d5p1s0: File exists
+mknod: c0d5p1s1: File exists
+mknod: c0d5p1s2: File exists
+mknod: c0d5p1s3: File exists
+mknod: c0d5p2s0: File exists
+mknod: c0d5p2s1: File exists
+mknod: c0d5p2s2: File exists
+mknod: c0d5p2s3: File exists
+mknod: c0d5p3s0: File exists
+mknod: c0d5p3s1: File exists
+mknod: c0d5p3s2: File exists
+mknod: c0d5p3s3: File exists
+mknod: c0d6: File exists
+mknod: c0d6p0: File exists
+mknod: c0d6p1: File exists
+mknod: c0d6p2: File exists
+mknod: c0d6p3: File exists
+mknod: c0d6p0s0: File exists
+mknod: c0d6p0s1: File exists
+mknod: c0d6p0s2: File exists
+mknod: c0d6p0s3: File exists
+mknod: c0d6p1s0: File exists
+mknod: c0d6p1s1: File exists
+mknod: c0d6p1s2: File exists
+mknod: c0d6p1s3: File exists
+mknod: c0d6p2s0: File exists
+mknod: c0d6p2s1: File exists
+mknod: c0d6p2s2: File exists
+mknod: c0d6p2s3: File exists
+mknod: c0d6p3s0: File exists
+mknod: c0d6p3s1: File exists
+mknod: c0d6p3s2: File exists
+mknod: c0d6p3s3: File exists
+mknod: c0d7: File exists
+mknod: c0d7p0: File exists
+mknod: c0d7p1: File exists
+mknod: c0d7p2: File exists
+mknod: c0d7p3: File exists
+mknod: c0d7p0s0: File exists
+mknod: c0d7p0s1: File exists
+mknod: c0d7p0s2: File exists
+mknod: c0d7p0s3: File exists
+mknod: c0d7p1s0: File exists
+mknod: c0d7p1s1: File exists
+mknod: c0d7p1s2: File exists
+mknod: c0d7p1s3: File exists
+mknod: c0d7p2s0: File exists
+mknod: c0d7p2s1: File exists
+mknod: c0d7p2s2: File exists
+mknod: c0d7p2s3: File exists
+mknod: c0d7p3s0: File exists
+mknod: c0d7p3s1: File exists
+mknod: c0d7p3s2: File exists
+mknod: c0d7p3s3: File exists
+mknod: c1d0: File exists
+mknod: c1d0p0: File exists
+mknod: c1d0p1: File exists
+mknod: c1d0p2: File exists
+mknod: c1d0p3: File exists
+mknod: c1d0p0s0: File exists
+mknod: c1d0p0s1: File exists
+mknod: c1d0p0s2: File exists
+mknod: c1d0p0s3: File exists
+mknod: c1d0p1s0: File exists
+mknod: c1d0p1s1: File exists
+mknod: c1d0p1s2: File exists
+mknod: c1d0p1s3: File exists
+mknod: c1d0p2s0: File exists
+mknod: c1d0p2s1: File exists
+mknod: c1d0p2s2: File exists
+mknod: c1d0p2s3: File exists
+mknod: c1d0p3s0: File exists
+mknod: c1d0p3s1: File exists
+mknod: c1d0p3s2: File exists
+mknod: c1d0p3s3: File exists
+mknod: c1d1: File exists
+mknod: c1d1p0: File exists
+mknod: c1d1p1: File exists
+mknod: c1d1p2: File exists
+mknod: c1d1p3: File exists
+mknod: c1d1p0s0: File exists
+mknod: c1d1p0s1: File exists
+mknod: c1d1p0s2: File exists
+mknod: c1d1p0s3: File exists
+mknod: c1d1p1s0: File exists
+mknod: c1d1p1s1: File exists
+mknod: c1d1p1s2: File exists
+mknod: c1d1p1s3: File exists
+mknod: c1d1p2s0: File exists
+mknod: c1d1p2s1: File exists
+mknod: c1d1p2s2: File exists
+mknod: c1d1p2s3: File exists
+mknod: c1d1p3s0: File exists
+mknod: c1d1p3s1: File exists
+mknod: c1d1p3s2: File exists
+mknod: c1d1p3s3: File exists
+mknod: c1d2: File exists
+mknod: c1d2p0: File exists
+mknod: c1d2p1: File exists
+mknod: c1d2p2: File exists
+mknod: c1d2p3: File exists
+mknod: c1d2p0s0: File exists
+mknod: c1d2p0s1: File exists
+mknod: c1d2p0s2: File exists
+mknod: c1d2p0s3: File exists
+mknod: c1d2p1s0: File exists
+mknod: c1d2p1s1: File exists
+mknod: c1d2p1s2: File exists
+mknod: c1d2p1s3: File exists
+mknod: c1d2p2s0: File exists
+mknod: c1d2p2s1: File exists
+mknod: c1d2p2s2: File exists
+mknod: c1d2p2s3: File exists
+mknod: c1d2p3s0: File exists
+mknod: c1d2p3s1: File exists
+mknod: c1d2p3s2: File exists
+mknod: c1d2p3s3: File exists
+mknod: c1d3: File exists
+mknod: c1d3p0: File exists
+mknod: c1d3p1: File exists
+mknod: c1d3p2: File exists
+mknod: c1d3p3: File exists
+mknod: c1d3p0s0: File exists
+mknod: c1d3p0s1: File exists
+mknod: c1d3p0s2: File exists
+mknod: c1d3p0s3: File exists
+mknod: c1d3p1s0: File exists
+mknod: c1d3p1s1: File exists
+mknod: c1d3p1s2: File exists
+mknod: c1d3p1s3: File exists
+mknod: c1d3p2s0: File exists
+mknod: c1d3p2s1: File exists
+mknod: c1d3p2s2: File exists
+mknod: c1d3p2s3: File exists
+mknod: c1d3p3s0: File exists
+mknod: c1d3p3s1: File exists
+mknod: c1d3p3s2: File exists
+mknod: c1d3p3s3: File exists
+mknod: c1d4: File exists
+mknod: c1d4p0: File exists
+mknod: c1d4p1: File exists
+mknod: c1d4p2: File exists
+mknod: c1d4p3: File exists
+mknod: c1d4p0s0: File exists
+mknod: c1d4p0s1: File exists
+mknod: c1d4p0s2: File exists
+mknod: c1d4p0s3: File exists
+mknod: c1d4p1s0: File exists
+mknod: c1d4p1s1: File exists
+mknod: c1d4p1s2: File exists
+mknod: c1d4p1s3: File exists
+mknod: c1d4p2s0: File exists
+mknod: c1d4p2s1: File exists
+mknod: c1d4p2s2: File exists
+mknod: c1d4p2s3: File exists
+mknod: c1d4p3s0: File exists
+mknod: c1d4p3s1: File exists
+mknod: c1d4p3s2: File exists
+mknod: c1d4p3s3: File exists
+mknod: c1d5: File exists
+mknod: c1d5p0: File exists
+mknod: c1d5p1: File exists
+mknod: c1d5p2: File exists
+mknod: c1d5p3: File exists
+mknod: c1d5p0s0: File exists
+mknod: c1d5p0s1: File exists
+mknod: c1d5p0s2: File exists
+mknod: c1d5p0s3: File exists
+mknod: c1d5p1s0: File exists
+mknod: c1d5p1s1: File exists
+mknod: c1d5p1s2: File exists
+mknod: c1d5p1s3: File exists
+mknod: c1d5p2s0: File exists
+mknod: c1d5p2s1: File exists
+mknod: c1d5p2s2: File exists
+mknod: c1d5p2s3: File exists
+mknod: c1d5p3s0: File exists
+mknod: c1d5p3s1: File exists
+mknod: c1d5p3s2: File exists
+mknod: c1d5p3s3: File exists
+mknod: c1d6: File exists
+mknod: c1d6p0: File exists
+mknod: c1d6p1: File exists
+mknod: c1d6p2: File exists
+mknod: c1d6p3: File exists
+mknod: c1d6p0s0: File exists
+mknod: c1d6p0s1: File exists
+mknod: c1d6p0s2: File exists
+mknod: c1d6p0s3: File exists
+mknod: c1d6p1s0: File exists
+mknod: c1d6p1s1: File exists
+mknod: c1d6p1s2: File exists
+mknod: c1d6p1s3: File exists
+mknod: c1d6p2s0: File exists
+mknod: c1d6p2s1: File exists
+mknod: c1d6p2s2: File exists
+mknod: c1d6p2s3: File exists
+mknod: c1d6p3s0: File exists
+mknod: c1d6p3s1: File exists
+mknod: c1d6p3s2: File exists
+mknod: c1d6p3s3: File exists
+mknod: c1d7: File exists
+mknod: c1d7p0: File exists
+mknod: c1d7p1: File exists
+mknod: c1d7p2: File exists
+mknod: c1d7p3: File exists
+mknod: c1d7p0s0: File exists
+mknod: c1d7p0s1: File exists
+mknod: c1d7p0s2: File exists
+mknod: c1d7p0s3: File exists
+mknod: c1d7p1s0: File exists
+mknod: c1d7p1s1: File exists
+mknod: c1d7p1s2: File exists
+mknod: c1d7p1s3: File exists
+mknod: c1d7p2s0: File exists
+mknod: c1d7p2s1: File exists
+mknod: c1d7p2s2: File exists
+mknod: c1d7p2s3: File exists
+mknod: c1d7p3s0: File exists
+mknod: c1d7p3s1: File exists
+mknod: c1d7p3s2: File exists
+mknod: c1d7p3s3: File exists
+mknod: fd0: File exists
+mknod: fd1: File exists
+mknod: fd0p0: File exists
+mknod: fd0p1: File exists
+mknod: fd0p2: File exists
+mknod: fd0p3: File exists
+mknod: fd1p0: File exists
+mknod: fd1p1: File exists
+mknod: fd1p2: File exists
+mknod: fd1p3: File exists
+mknod: ttyc1: File exists
+mknod: ttyc2: File exists
+mknod: ttyc3: File exists
+mknod: tty00: File exists
+mknod: tty01: File exists
+mknod: tty02: File exists
+mknod: tty03: File exists
+mknod: ttyp0: File exists
+mknod: ptyp0: File exists
+mknod: ttyp1: File exists
+mknod: ptyp1: File exists
+mknod: ttyp2: File exists
+mknod: ptyp2: File exists
+mknod: ttyp3: File exists
+mknod: ptyp3: File exists
+mknod: ttyp4: File exists
+mknod: ptyp4: File exists
+mknod: ttyp5: File exists
+mknod: ptyp5: File exists
+mknod: ttyp6: File exists
+mknod: ptyp6: File exists
+mknod: ttyp7: File exists
+mknod: ptyp7: File exists
+mknod: ttyp8: File exists
+mknod: ptyp8: File exists
+mknod: ttyp9: File exists
+mknod: ptyp9: File exists
+mknod: ttypa: File exists
+mknod: ptypa: File exists
+mknod: ttypb: File exists
+mknod: ptypb: File exists
+mknod: ttypc: File exists
+mknod: ptypc: File exists
+mknod: ttypd: File exists
+mknod: ptypd: File exists
+mknod: ttype: File exists
+mknod: ptype: File exists
+mknod: ttypf: File exists
+mknod: ptypf: File exists
+mknod: ttyq0: File exists
+mknod: ptyq0: File exists
+mknod: ttyq1: File exists
+mknod: ptyq1: File exists
+mknod: ttyq2: File exists
+mknod: ptyq2: File exists
+mknod: ttyq3: File exists
+mknod: ptyq3: File exists
+mknod: ttyq4: File exists
+mknod: ptyq4: File exists
+mknod: ttyq5: File exists
+mknod: ptyq5: File exists
+mknod: ttyq6: File exists
+mknod: ptyq6: File exists
+mknod: ttyq7: File exists
+mknod: ptyq7: File exists
+mknod: ttyq8: File exists
+mknod: ptyq8: File exists
+mknod: ttyq9: File exists
+mknod: ptyq9: File exists
+mknod: ttyqa: File exists
+mknod: ptyqa: File exists
+mknod: ttyqb: File exists
+mknod: ptyqb: File exists
+mknod: ttyqc: File exists
+mknod: ptyqc: File exists
+mknod: ttyqd: File exists
+mknod: ptyqd: File exists
+mknod: ttyqe: File exists
+mknod: ptyqe: File exists
+mknod: ttyqf: File exists
+mknod: ptyqf: File exists
+mknod: bmp085b1s77: File exists
+mknod: bmp085b2s77: File exists
+mknod: bmp085b3s77: File exists
+mknod: eepromb1s50: File exists
+mknod: eepromb1s51: File exists
+mknod: eepromb1s52: File exists
+mknod: eepromb1s53: File exists
+mknod: eepromb1s54: File exists
+mknod: eepromb1s55: File exists
+mknod: eepromb1s56: File exists
+mknod: eepromb1s57: File exists
+mknod: eepromb2s50: File exists
+mknod: eepromb2s51: File exists
+mknod: eepromb2s52: File exists
+mknod: eepromb2s53: File exists
+mknod: eepromb2s54: File exists
+mknod: eepromb2s55: File exists
+mknod: eepromb2s56: File exists
+mknod: eepromb2s57: File exists
+mknod: eepromb3s50: File exists
+mknod: eepromb3s51: File exists
+mknod: eepromb3s52: File exists
+mknod: eepromb3s53: File exists
+mknod: eepromb3s54: File exists
+mknod: eepromb3s55: File exists
+mknod: eepromb3s56: File exists
+mknod: eepromb3s57: File exists
+mknod: ipstat: File exists
+mknod: eth0: File exists
+mknod: ip0: File exists
+mknod: tcp0: File exists
+mknod: udp0: File exists
+mknod: eth: File exists
+mknod: ip: File exists
+mknod: tcp: File exists
+mknod: udp: File exists
+mknod: fb0: File exists
+mknod: fbd: File exists
+mknod: filter: File exists
+mknod: hello: File exists
+mknod: i2c-1: File exists
+mknod: i2c-2: File exists
+mknod: i2c-3: File exists
+mknod: klog: File exists
+mknod: random: File exists
+mknod: urandom: File exists
+mknod: sht21b1s40: File exists
+mknod: sht21b2s40: File exists
+mknod: sht21b3s40: File exists
+mknod: tsl2550b1s39: File exists
+mknod: tsl2550b2s39: File exists
+mknod: tsl2550b3s39: File exists
+mknod: uds: File exists
+mknod: vnd0: File exists
+mknod: vnd0p0: File exists
+mknod: vnd0p1: File exists
+mknod: vnd0p2: File exists
+mknod: vnd0p3: File exists
+mknod: vnd0p0s0: File exists
+mknod: vnd0p0s1: File exists
+mknod: vnd0p0s2: File exists
+mknod: vnd0p0s3: File exists
+mknod: vnd0p1s0: File exists
+mknod: vnd0p1s1: File exists
+mknod: vnd0p1s2: File exists
+mknod: vnd0p1s3: File exists
+mknod: vnd0p2s0: File exists
+mknod: vnd0p2s1: File exists
+mknod: vnd0p2s2: File exists
+mknod: vnd0p2s3: File exists
+mknod: vnd0p3s0: File exists
+mknod: vnd0p3s1: File exists
+mknod: vnd0p3s2: File exists
+mknod: vnd0p3s3: File exists
+mknod: vnd1: File exists
+mknod: vnd1p0: File exists
+mknod: vnd1p1: File exists
+mknod: vnd1p2: File exists
+mknod: vnd1p3: File exists
+mknod: vnd1p0s0: File exists
+mknod: vnd1p0s1: File exists
+mknod: vnd1p0s2: File exists
+mknod: vnd1p0s3: File exists
+mknod: vnd1p1s0: File exists
+mknod: vnd1p1s1: File exists
+mknod: vnd1p1s2: File exists
+mknod: vnd1p1s3: File exists
+mknod: vnd1p2s0: File exists
+mknod: vnd1p2s1: File exists
+mknod: vnd1p2s2: File exists
+mknod: vnd1p2s3: File exists
+mknod: vnd1p3s0: File exists
+mknod: vnd1p3s1: File exists
+mknod: vnd1p3s2: File exists
+mknod: vnd1p3s3: File exists
+mknod: vnd2: File exists
+mknod: vnd3: File exists
+mknod: vnd4: File exists
+mknod: vnd5: File exists
+mknod: vnd6: File exists
+mknod: vnd7: File exists
+ ===> minix/bin
+includes ===> minix/commands
+includes ===> minix/commands/add_route
+includes ===> minix/commands/arp
+includes ===> minix/commands/at
+includes ===> minix/commands/backup
+includes ===> minix/commands/btrace
+includes ===> minix/commands/cawf
+includes ===> minix/commands/cdprobe
+includes ===> minix/commands/ci
+includes ===> minix/commands/cleantmp
+includes ===> minix/commands/cmp
+includes ===> minix/commands/co
+includes ===> minix/commands/compress
+includes ===> minix/commands/crc
+includes ===> minix/commands/cron
+includes ===> minix/commands/crontab
+includes ===> minix/commands/dd
+includes ===> minix/commands/decomp16
+includes ===> minix/commands/DESCRIBE
+includes ===> minix/commands/devmand
+includes ===> minix/commands/devsize
+includes ===> minix/commands/dhcpd
+includes ===> minix/commands/dhrystone
+includes ===> minix/commands/diff
+includes ===> minix/commands/diskctl
+includes ===> minix/commands/eject
+includes ===> minix/commands/fbdctl
+includes ===> minix/commands/find
+includes ===> minix/commands/fix
+includes ===> minix/commands/format
+includes ===> minix/commands/fsck.mfs
+includes ===> minix/commands/gcov-pull
+includes ===> minix/commands/grep
+includes ===> minix/commands/host
+includes ===> minix/commands/hostaddr
+includes ===> minix/commands/ifconfig
+includes ===> minix/commands/ifdef
+includes ===> minix/commands/intr
+includes ===> minix/commands/ipcrm
+includes ===> minix/commands/ipcs
+includes ===> minix/commands/irdpd
+includes ===> minix/commands/isoread
+includes ===> minix/commands/loadkeys
+includes ===> minix/commands/loadramdisk
+includes ===> minix/commands/logger
+includes ===> minix/commands/look
+includes ===> minix/commands/lp
+includes ===> minix/commands/lpd
+includes ===> minix/commands/lspci
+includes ===> minix/commands/mail
+includes ===> minix/commands/MAKEDEV
+includes ===> minix/commands/mined
+includes ===> minix/commands/mount
+includes ===> minix/commands/mt
+includes ===> minix/commands/netconf
+includes ===> minix/commands/nonamed
+includes ===> minix/commands/postinstall
+includes ===> minix/commands/prep
+includes ===> minix/commands/printroot
+includes ===> minix/commands/profile
+includes ===> minix/commands/progressbar
+includes ===> minix/commands/pr_routes
+includes ===> minix/commands/ps
+includes ===> minix/commands/pwdauth
+includes ===> minix/commands/ramdisk
+includes ===> minix/commands/rarpd
+includes ===> minix/commands/rawspeed
+includes ===> minix/commands/rcp
+includes ===> minix/commands/readclock
+includes ===> minix/commands/remsync
+includes ===> minix/commands/rget
+includes ===> minix/commands/rlogin
+includes ===> minix/commands/rotate
+includes ===> minix/commands/rsh
+includes ===> minix/commands/rshd
+includes ===> minix/commands/service
+includes ===> minix/commands/setup
+includes ===> minix/commands/slip
+includes ===> minix/commands/spell
+includes ===> minix/commands/sprofalyze
+includes ===> minix/commands/sprofdiff
+includes ===> minix/commands/srccrc
+includes ===> minix/commands/svclog
+includes ===> minix/commands/svrctl
+includes ===> minix/commands/swifi
+includes ===> minix/commands/synctree
+includes ===> minix/commands/sysenv
+includes ===> minix/commands/syslogd
+includes ===> minix/commands/tcpd
+includes ===> minix/commands/tcpdp
+includes ===> minix/commands/tcpstat
+includes ===> minix/commands/telnet
+includes ===> minix/commands/telnetd
+includes ===> minix/commands/term
+includes ===> minix/commands/termcap
+includes ===> minix/commands/tget
+includes ===> minix/commands/time
+includes ===> minix/commands/truncate
+includes ===> minix/commands/udpstat
+includes ===> minix/commands/umount
+includes ===> minix/commands/update
+includes ===> minix/commands/version
+includes ===> minix/commands/vol
+includes ===> minix/commands/writeisofs
+includes ===> minix/commands/fetch
+includes ===> minix/commands/zdump
+includes ===> minix/commands/zmodem
+includes ===> minix/commands/pkgin_cd
+includes ===> minix/commands/pkgin_all
+includes ===> minix/commands/pkgin_sets
+includes ===> minix/commands/worldstone
+includes ===> minix/commands/updateboot
+includes ===> minix/commands/update_bootcfg
+includes ===> minix/commands/atnormalize
+includes ===> minix/commands/dosread
+includes ===> minix/commands/fdisk
+includes ===> minix/commands/loadfont
+includes ===> minix/commands/autopart
+includes ===> minix/commands/part
+includes ===> minix/commands/partition
+includes ===> minix/commands/playwave
+includes ===> minix/commands/recwave
+includes ===> minix/commands/repartition
+includes ===> minix/commands/screendump
+includes ===> minix/fs
+includes ===> minix/fs/mfs
+includes ===> minix/fs/pfs
+includes ===> minix/fs/ext2
+includes ===> minix/fs/procfs
+includes ===> minix/fs/hgfs
+includes ===> minix/fs/vbfs
+includes ===> minix/kernel
+includes ===> minix/lib
+includes ===> minix/lib/libsys
+includes ===> minix/lib/libmthread
+includes ===> minix/lib/libasyn
+includes ===> minix/lib/libaudiodriver
+includes ===> minix/lib/libbdev
+includes ===> minix/lib/libblockdriver
+includes ===> minix/lib/libchardriver
+includes ===> minix/lib/libddekit
+includes ===> minix/lib/libddekit/build
+includes ===> minix/lib/libddekit/build/ddekit
+includes ===> minix/lib/libddekit/build/ddekit_usb_client
+includes ===> minix/lib/libddekit/build/ddekit_usb_server
+includes ===> minix/lib/libdevman
+includes ===> minix/lib/libexec
+includes ===> minix/lib/libfetch
+includes ===> minix/lib/libinputdriver
+includes ===> minix/lib/libminc
+includes ===> minix/lib/libminixfs
+includes ===> minix/lib/libnetdriver
+includes ===> minix/lib/libsffs
+includes ===> minix/lib/libtimers
+includes ===> minix/lib/libusb
+includes ===> minix/lib/libvtreefs
+includes ===> minix/lib/libgcc_s_empty
+includes ===> minix/lib/liblwip
+includes ===> minix/lib/libnetsock
+includes ===> minix/lib/libhgfs
+includes ===> minix/lib/libvassert
+includes ===> minix/lib/libvboxfs
+includes ===> minix/lib/libvirtio
+includes ===> minix/llvm
+includes ===> minix/man
+includes ===> minix/man/man1
+includes ===> minix/man/man1x
+includes ===> minix/man/man2
+includes ===> minix/man/man4
+includes ===> minix/man/man5
+includes ===> minix/man/man7
+includes ===> minix/man/man8
+includes ===> minix/man/man9
+includes ===> minix/net
+includes ===> minix/net/inet
+includes ===> minix/net/lwip
+includes ===> minix/sbin
+includes ===> minix/servers
+includes ===> minix/servers/ds
+includes ===> minix/servers/input
+includes ===> minix/servers/pm
+includes ===> minix/servers/rs
+includes ===> minix/servers/sched
+includes ===> minix/servers/vfs
+includes ===> minix/servers/vm
+includes ===> minix/servers/ipc
+includes ===> minix/servers/is
+includes ===> minix/servers/devman
+includes ===> minix/share
+includes ===> minix/tests
+includes ===> minix/tests/blocktest
+includes ===> minix/tests/ddekit
+includes ===> minix/usr.bin
+includes ===> minix/usr.bin/ministat
+includes ===> minix/usr.bin/top
+includes ===> minix/usr.bin/toproto
+includes ===> minix/usr.sbin
+includes ===> minix/usr.sbin/mkfs.mfs
+includes ===> minix/usr.sbin/mkfs.mfs/v3
+includes ===> minix/usr.sbin/mkproto
+includes ===> minix/drivers
+includes ===> minix/drivers/audio
+includes ===> minix/drivers/audio/es1370
+includes ===> minix/drivers/audio/es1371
+includes ===> minix/drivers/audio/sb16
+includes ===> minix/drivers/clock
+includes ===> minix/drivers/clock/readclock
+includes ===> minix/drivers/eeprom
+includes ===> minix/drivers/examples
+includes ===> minix/drivers/examples/hello
+includes ===> minix/drivers/iommu
+includes ===> minix/drivers/iommu/amddev
+includes ===> minix/drivers/net
+includes ===> minix/drivers/net/atl2
+includes ===> minix/drivers/net/dec21140A
+includes ===> minix/drivers/net/dp8390
+includes ===> minix/drivers/net/dpeth
+includes ===> minix/drivers/net/e1000
+includes ===> minix/drivers/net/fxp
+includes ===> minix/drivers/net/lance
+includes ===> minix/drivers/net/orinoco
+includes ===> minix/drivers/net/rtl8139
+includes ===> minix/drivers/net/rtl8169
+includes ===> minix/drivers/net/virtio_net
+includes ===> minix/drivers/net/uds
+includes ===> minix/drivers/power
+includes ===> minix/drivers/power/acpi
+includes ===> minix/drivers/printer
+includes ===> minix/drivers/printer/printer
+includes ===> minix/drivers/sensors
+includes ===> minix/drivers/system
+includes ===> minix/drivers/system/log
+includes ===> minix/drivers/system/random
+includes ===> minix/drivers/usb
+includes ===> minix/drivers/usb/usb_storage
+includes ===> minix/drivers/usb/usb_hub
+includes ===> minix/drivers/video
+includes ===> minix/drivers/vmm_guest
+includes ===> minix/drivers/vmm_guest/vbox
+includes ===> minix/drivers/bus
+includes ===> minix/drivers/bus/ti1225
+includes ===> minix/drivers/bus/pci
+includes ===> minix/drivers/tty
+includes ===> minix/drivers/tty/pty
+includes ===> minix/drivers/tty/tty
+includes ===> minix/drivers/tty/tty/keymaps
+includes ===> minix/drivers/hid
+includes ===> minix/drivers/hid/pckbd
+includes ===> minix/drivers/storage
+includes ===> minix/drivers/storage/ahci
+includes ===> minix/drivers/storage/fbd
+includes ===> minix/drivers/storage/filter
+includes ===> minix/drivers/storage/virtio_blk
+includes ===> minix/drivers/storage/mmc
+includes ===> minix/drivers/storage/vnd
+includes ===> minix/drivers/storage/at_wini
+includes ===> minix/drivers/storage/floppy
+includes ===> minix/drivers/storage/ramdisk
+includes ===> minix/drivers/storage/memory
+do-lib ===> .
+build_install ===> lib
+dependall-csu ===> lib
+dependall ===> lib/csu
+install-csu ===> lib
+install ===> lib/csu
+dependall-../minix/lib/libsys ===> lib	(with: dependall-../minix/lib/libmthread)
+dependall ===> lib/../minix/lib/libmthread
+dependall ===> lib/../minix/lib/libsys
+install-../minix/lib/libsys ===> lib	(with: install-../minix/lib/libmthread)
+install ===> lib/../minix/lib/libmthread
+install ===> lib/../minix/lib/libsys
+dependall-libc ===> lib
+dependall ===> lib/libc
+dependall ===> lib/libc/pkgconfig
+install-libc ===> lib
+install ===> lib/libc
+install ===> lib/libc/pkgconfig
+dependall-../minix/lib/libasyn ===> lib	(with: dependall-../minix/lib/libaudiodriver dependall-../minix/lib/libbdev dependall-../minix/lib/libblockdriver dependall-../minix/lib/libchardriver dependall-../minix/lib/libddekit dependall-../minix/lib/libdevman dependall-../minix/lib/libexec dependall-../minix/lib/libfetch dependall-../minix/lib/libinputdriver dependall-../minix/lib/libminc dependall-../minix/lib/libminixfs dependall-../minix/lib/libnetdriver dependall-../minix/lib/libsffs dependall-../minix/lib/libtimers dependall-../minix/lib/libusb dependall-../minix/lib/libvtreefs dependall-../minix/lib/libgcc_s_empty dependall-../minix/lib/liblwip dependall-../minix/lib/libnetsock dependall-../minix/lib/libhgfs dependall-../minix/lib/libvassert dependall-../minix/lib/libvboxfs dependall-../minix/lib/libvirtio dependall-libbz2 dependall-libcrypt dependall-libm dependall-libprop dependall-libpuffs dependall-librmt dependall-libterminfo dependall-libutil dependall-libz dependall-../external/bsd/flex/lib dependall-../external/bsd/libelf/lib dependall-../external/public-domain/sqlite/lib dependall-../external/public-domain/xz/lib)
+dependall ===> lib/../minix/lib/libaudiodriver
+dependall ===> lib/../minix/lib/libbdev
+dependall ===> lib/../minix/lib/libblockdriver
+dependall ===> lib/../minix/lib/libchardriver
+dependall ===> lib/../minix/lib/libddekit
+dependall ===> lib/../minix/lib/libddekit/build
+dependall ===> lib/../minix/lib/libddekit/build/ddekit
+dependall ===> lib/../minix/lib/libddekit/build/ddekit_usb_client
+dependall ===> lib/../minix/lib/libddekit/build/ddekit_usb_server
+dependall ===> lib/../minix/lib/libdevman
+dependall ===> lib/../minix/lib/libexec
+dependall ===> lib/../minix/lib/libfetch
+dependall ===> lib/../minix/lib/libinputdriver
+dependall ===> lib/../minix/lib/libminc
+dependall ===> lib/../minix/lib/libminixfs
+dependall ===> lib/../minix/lib/libnetdriver
+dependall ===> lib/../minix/lib/libsffs
+dependall ===> lib/../minix/lib/libtimers
+dependall ===> lib/../minix/lib/libusb
+dependall ===> lib/../minix/lib/libvtreefs
+dependall ===> lib/../minix/lib/libgcc_s_empty
+dependall ===> lib/../minix/lib/liblwip
+dependall ===> lib/../minix/lib/libnetsock
+dependall ===> lib/../minix/lib/libhgfs
+dependall ===> lib/../minix/lib/libvassert
+dependall ===> lib/../minix/lib/libvboxfs
+dependall ===> lib/../minix/lib/libvirtio
+dependall ===> lib/libbz2
+dependall ===> lib/libcrypt
+dependall ===> lib/libm
+dependall ===> lib/libm/arch/i387
+dependall ===> lib/libprop
+dependall ===> lib/libpuffs
+dependall ===> lib/librmt
+dependall ===> lib/libterminfo
+dependall ===> lib/libutil
+dependall ===> lib/libz
+dependall ===> lib/../external/bsd/flex/lib
+dependall ===> lib/../external/bsd/libelf/lib
+dependall ===> lib/../external/public-domain/sqlite/lib
+dependall ===> lib/../external/public-domain/xz/lib
+dependall ===> lib/../minix/lib/libasyn
+install-../minix/lib/libasyn ===> lib	(with: install-../minix/lib/libaudiodriver install-../minix/lib/libbdev install-../minix/lib/libblockdriver install-../minix/lib/libchardriver install-../minix/lib/libddekit install-../minix/lib/libdevman install-../minix/lib/libexec install-../minix/lib/libfetch install-../minix/lib/libinputdriver install-../minix/lib/libminc install-../minix/lib/libminixfs install-../minix/lib/libnetdriver install-../minix/lib/libsffs install-../minix/lib/libtimers install-../minix/lib/libusb install-../minix/lib/libvtreefs install-../minix/lib/libgcc_s_empty install-../minix/lib/liblwip install-../minix/lib/libnetsock install-../minix/lib/libhgfs install-../minix/lib/libvassert install-../minix/lib/libvboxfs install-../minix/lib/libvirtio install-libbz2 install-libcrypt install-libm install-libprop install-libpuffs install-librmt install-libterminfo install-libutil install-libz install-../external/bsd/flex/lib install-../external/bsd/libelf/lib install-../external/public-domain/sqlite/lib install-../external/public-domain/xz/lib)
+install ===> lib/../minix/lib/libaudiodriver
+install ===> lib/../minix/lib/libbdev
+install ===> lib/../minix/lib/libblockdriver
+install ===> lib/../minix/lib/libchardriver
+install ===> lib/../minix/lib/libddekit
+install ===> lib/../minix/lib/libddekit/build
+install ===> lib/../minix/lib/libddekit/build/ddekit
+install ===> lib/../minix/lib/libddekit/build/ddekit_usb_client
+install ===> lib/../minix/lib/libddekit/build/ddekit_usb_server
+install ===> lib/../minix/lib/libdevman
+install ===> lib/../minix/lib/libexec
+install ===> lib/../minix/lib/libfetch
+install ===> lib/../minix/lib/libinputdriver
+install ===> lib/../minix/lib/libminc
+install ===> lib/../minix/lib/libminixfs
+install ===> lib/../minix/lib/libnetdriver
+install ===> lib/../minix/lib/libsffs
+install ===> lib/../minix/lib/libtimers
+install ===> lib/../minix/lib/libusb
+install ===> lib/../minix/lib/libvtreefs
+install ===> lib/../minix/lib/libgcc_s_empty
+install ===> lib/../minix/lib/liblwip
+install ===> lib/../minix/lib/libnetsock
+install ===> lib/../minix/lib/libhgfs
+install ===> lib/../minix/lib/libvassert
+install ===> lib/../minix/lib/libvboxfs
+install ===> lib/../minix/lib/libvirtio
+install ===> lib/libbz2
+install ===> lib/libcrypt
+install ===> lib/libm
+install ===> lib/libm/arch/i387
+install ===> lib/libprop
+install ===> lib/libpuffs
+install ===> lib/librmt
+install ===> lib/libterminfo
+install ===> lib/libutil
+install ===> lib/libz
+install ===> lib/../external/bsd/flex/lib
+install ===> lib/../external/bsd/libelf/lib
+install ===> lib/../external/public-domain/sqlite/lib
+install ===> lib/../external/public-domain/xz/lib
+install ===> lib/../minix/lib/libasyn
+dependall-../external/mit/lua/lib ===> lib	(with: dependall-libcurses dependall-libedit dependall-libexecinfo dependall-librefuse dependall-../external/bsd/file/lib dependall-../external/bsd/libarchive/lib dependall-../external/bsd/libc++)
+dependall ===> lib/libcurses
+dependall ===> lib/libedit
+dependall ===> lib/libedit/readline
+dependall ===> lib/libexecinfo
+dependall ===> lib/librefuse
+dependall ===> lib/../external/bsd/file/lib
+dependall ===> lib/../external/bsd/libarchive/lib
+dependall ===> lib/../external/bsd/libarchive/lib/libarchive
+dependall ===> lib/../external/bsd/libarchive/lib/libarchive_fe
+dependall ===> lib/../external/bsd/libc++
+dependall ===> lib/../external/bsd/libc++/include
+dependall ===> lib/../external/bsd/libc++/lib
+dependall ===> lib/../external/mit/lua/lib
+dependall ===> lib/../external/mit/lua/lib/liblua
+install-../external/mit/lua/lib ===> lib	(with: install-libcurses install-libedit install-libexecinfo install-librefuse install-../external/bsd/file/lib install-../external/bsd/libarchive/lib install-../external/bsd/libc++)
+install ===> lib/libcurses
+install ===> lib/libcurses/PSD.doc
+install ===> lib/libedit
+install ===> lib/libedit/readline
+install ===> lib/libexecinfo
+install ===> lib/librefuse
+install ===> lib/../external/bsd/file/lib
+install ===> lib/../external/bsd/libarchive/lib
+install ===> lib/../external/bsd/libarchive/lib/libarchive
+    install  /usr/man/man3/archive_read_open_FILE.3
+    install  /usr/man/man3/archive_read_open_file.3
+install ===> lib/../external/bsd/libarchive/lib/libarchive_fe
+install ===> lib/../external/bsd/libc++
+install ===> lib/../external/bsd/libc++/include
+install ===> lib/../external/bsd/libc++/lib
+install ===> lib/../external/mit/lua/lib
+install ===> lib/../external/mit/lua/lib/liblua
+dependall-../external/bsd/atf/lib ===> lib	(with: dependall-../external/bsd/lutok/lib dependall-libform dependall-libmenu)
+dependall ===> lib/../external/bsd/lutok/lib
+dependall ===> lib/../external/bsd/lutok/lib/liblutok
+dependall ===> lib/libform
+dependall ===> lib/libmenu
+dependall ===> lib/../external/bsd/atf/lib
+dependall ===> lib/../external/bsd/atf/lib/libatf-c
+dependall ===> lib/../external/bsd/atf/lib/libatf-c++
+install-../external/bsd/atf/lib ===> lib	(with: install-../external/bsd/lutok/lib install-libform install-libmenu)
+install ===> lib/../external/bsd/lutok/lib
+install ===> lib/../external/bsd/lutok/lib/liblutok
+install ===> lib/libform
+    install  /usr/man/man3/current_field.3
+    install  /usr/man/man3/data_ahead.3
+    install  /usr/man/man3/dup_field.3
+    install  /usr/man/man3/dynamic_field_info.3
+install ===> lib/libmenu
+install ===> lib/../external/bsd/atf/lib
+install ===> lib/../external/bsd/atf/lib/libatf-c
+install ===> lib/../external/bsd/atf/lib/libatf-c++
+dependall-../external/bsd/mdocml/lib ===> lib	(with: dependall-lua)
+dependall ===> lib/lua
+dependall ===> lib/lua/gpio
+dependall ===> lib/lua/sqlite
+dependall ===> lib/lua/syslog
+dependall ===> lib/../external/bsd/mdocml/lib
+dependall ===> lib/../external/bsd/mdocml/lib/libmandoc
+install-../external/bsd/mdocml/lib ===> lib	(with: install-lua)
+install ===> lib/lua
+install ===> lib/lua/gpio
+    install  /usr/lib/lua/5.1/gpio.so
+install ===> lib/lua/sqlite
+    install  /usr/lib/lua/5.1/sqlite.so
+install ===> lib/lua/syslog
+    install  /usr/lib/lua/5.1/syslog.so
+install ===> lib/../external/bsd/mdocml/lib
+install ===> lib/../external/bsd/mdocml/lib/libmandoc
+do-build ===> .
+dependall ===> .	(with: BUILD_tools=no BUILD_lib=no)
+dependall ===> include
+dependall ===> include/../minix/include
+dependall ===> include/../minix/include/arch
+dependall ===> include/../minix/include/arch/i386
+dependall ===> include/../minix/include/arch/i386/include
+dependall ===> include/../minix/include/ddekit
+dependall ===> include/../minix/include/ddekit/minix
+dependall ===> include/../minix/include/libdde
+dependall ===> include/../minix/include/minix
+dependall ===> include/../minix/include/net
+dependall ===> include/../minix/include/net/gen
+dependall ===> include/../minix/include/sys
+dependall ===> include/../common/include/prop
+dependall ===> include/../common/include/ppath
+dependall ===> gnu
+dependall ===> gnu/dist
+dependall ===> gnu/usr.bin
+dependall ===> gnu/usr.bin/texinfo
+dependall ===> gnu/usr.bin/texinfo/makedoc
+dependall ===> gnu/usr.bin/texinfo/common
+dependall ===> gnu/usr.bin/texinfo/info
+dependall ===> gnu/usr.bin/texinfo/infokey
+dependall ===> gnu/usr.bin/texinfo/install-info
+dependall ===> gnu/usr.bin/texinfo/makeinfo
+dependall ===> gnu/usr.bin/texinfo/texi2dvi
+dependall ===> gnu/usr.bin/texinfo/texindex
+dependall ===> external
+dependall ===> external/bsd
+dependall ===> external/bsd/byacc
+dependall ===> external/bsd/byacc/bin
+dependall ===> external/bsd/file
+dependall ===> external/bsd/file/lib
+dependall ===> external/bsd/file/bin
+dependall ===> external/bsd/flex
+dependall ===> external/bsd/flex/lib
+dependall ===> external/bsd/flex/bin
+dependall ===> external/bsd/less
+dependall ===> external/bsd/less/bin
+dependall ===> external/bsd/less/bin/less
+dependall ===> external/bsd/less/bin/lessecho
+dependall ===> external/bsd/less/bin/lesskey
+dependall ===> external/bsd/libarchive
+dependall ===> external/bsd/libarchive/lib
+dependall ===> external/bsd/libarchive/lib/libarchive
+dependall ===> external/bsd/libarchive/lib/libarchive_fe
+dependall ===> external/bsd/libarchive/bin
+dependall ===> external/bsd/mdocml
+dependall ===> external/bsd/mdocml/lib
+dependall ===> external/bsd/mdocml/lib/libmandoc
+dependall ===> external/bsd/mdocml/bin
+dependall ===> external/bsd/mdocml/bin/mandoc
+dependall ===> external/bsd/mdocml/man
+dependall ===> external/bsd/atf
+dependall ===> external/bsd/atf/etc
+dependall ===> external/bsd/atf/lib
+dependall ===> external/bsd/atf/lib/libatf-c
+dependall ===> external/bsd/atf/lib/libatf-c++
+dependall ===> external/bsd/atf/libexec
+dependall ===> external/bsd/atf/libexec/atf-check
+dependall ===> external/bsd/atf/share
+dependall ===> external/bsd/atf/share/doc
+dependall ===> external/bsd/atf/share/doc/atf
+dependall ===> external/bsd/atf/usr.bin
+dependall ===> external/bsd/atf/usr.bin/atf-sh
+dependall ===> external/bsd/atf/tests
+dependall ===> external/bsd/atf/tests/atf
+dependall ===> external/bsd/atf/tests/atf/atf-c
+dependall ===> external/bsd/atf/tests/atf/atf-c/detail
+dependall ===> external/bsd/atf/tests/atf/atf-c++
+dependall ===> external/bsd/atf/tests/atf/atf-c++/detail
+dependall ===> external/bsd/atf/tests/atf/atf-sh
+dependall ===> external/bsd/atf/tests/atf/test-programs
+dependall ===> external/bsd/lutok
+dependall ===> external/bsd/lutok/lib
+dependall ===> external/bsd/lutok/lib/liblutok
+dependall ===> external/bsd/lutok/share
+dependall ===> external/bsd/lutok/share/examples
+dependall ===> external/bsd/lutok/share/examples/lutok
+dependall ===> external/bsd/lutok/tests
+dependall ===> external/bsd/lutok/tests/lib
+dependall ===> external/bsd/lutok/tests/lib/liblutok
+dependall ===> external/bsd/lutok/tests/share
+dependall ===> external/bsd/lutok/tests/share/lutok
+dependall ===> external/bsd/kyua-testers
+dependall ===> external/bsd/kyua-testers/lib
+dependall ===> external/bsd/kyua-testers/lib/libtester
+dependall ===> external/bsd/kyua-testers/lib/libatf_tester
+dependall ===> external/bsd/kyua-testers/libexec
+dependall ===> external/bsd/kyua-testers/libexec/kyua-atf-tester
+dependall ===> external/bsd/kyua-testers/libexec/kyua-plain-tester
+dependall ===> external/bsd/kyua-testers/share
+dependall ===> external/bsd/kyua-testers/share/doc
+dependall ===> external/bsd/kyua-testers/share/doc/kyua-testers
+dependall ===> external/bsd/kyua-testers/share/man
+dependall ===> external/bsd/kyua-testers/share/man/man1
+dependall ===> external/bsd/kyua-testers/share/man/man5
+dependall ===> external/bsd/kyua-testers/tests
+dependall ===> external/bsd/kyua-testers/tests/kyua-testers
+dependall ===> external/bsd/kyua-cli
+dependall ===> external/bsd/kyua-cli/etc
+dependall ===> external/bsd/kyua-cli/etc/kyua
+dependall ===> external/bsd/kyua-cli/lib
+dependall ===> external/bsd/kyua-cli/lib/utils
+dependall ===> external/bsd/kyua-cli/lib/utils/cmdline
+dependall ===> external/bsd/kyua-cli/lib/utils/config
+dependall ===> external/bsd/kyua-cli/lib/utils/format
+dependall ===> external/bsd/kyua-cli/lib/utils/fs
+dependall ===> external/bsd/kyua-cli/lib/utils/logging
+dependall ===> external/bsd/kyua-cli/lib/utils/process
+dependall ===> external/bsd/kyua-cli/lib/utils/signals
+dependall ===> external/bsd/kyua-cli/lib/utils/sqlite
+dependall ===> external/bsd/kyua-cli/lib/utils/text
+dependall ===> external/bsd/kyua-cli/lib/store
+dependall ===> external/bsd/kyua-cli/lib/engine
+dependall ===> external/bsd/kyua-cli/lib/cli
+dependall ===> external/bsd/kyua-cli/share
+dependall ===> external/bsd/kyua-cli/share/doc
+dependall ===> external/bsd/kyua-cli/share/doc/kyua-cli
+dependall ===> external/bsd/kyua-cli/share/examples
+dependall ===> external/bsd/kyua-cli/share/examples/kyua-cli
+dependall ===> external/bsd/kyua-cli/share/kyua-cli
+dependall ===> external/bsd/kyua-cli/share/kyua-cli/misc
+dependall ===> external/bsd/kyua-cli/share/kyua-cli/store
+dependall ===> external/bsd/kyua-cli/share/man
+dependall ===> external/bsd/kyua-cli/share/man/man5
+dependall ===> external/bsd/kyua-cli/share/man/man7
+dependall ===> external/bsd/kyua-cli/tests
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/bootstrap
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/cli
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/engine
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/engine/drivers
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/examples
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/integration
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/integration/helpers
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/store
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/utils
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/utils/cmdline
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/utils/config
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/utils/format
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/utils/fs
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/utils/logging
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/utils/process
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/utils/signals
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/utils/sqlite
+dependall ===> external/bsd/kyua-cli/tests/kyua-cli/utils/text
+dependall ===> external/bsd/kyua-cli/usr.bin
+dependall ===> external/bsd/kyua-cli/usr.bin/kyua
+dependall ===> external/bsd/kyua-atf-compat
+dependall ===> external/bsd/kyua-atf-compat/share
+dependall ===> external/bsd/kyua-atf-compat/share/doc
+dependall ===> external/bsd/kyua-atf-compat/share/doc/kyua-atf-compat
+dependall ===> external/bsd/kyua-atf-compat/share/kyua-atf-compat
+dependall ===> external/bsd/kyua-atf-compat/tests
+dependall ===> external/bsd/kyua-atf-compat/tests/kyua-atf-compat
+dependall ===> external/bsd/kyua-atf-compat/usr.bin
+dependall ===> external/bsd/kyua-atf-compat/usr.bin/atf-report
+dependall ===> external/bsd/kyua-atf-compat/usr.bin/atf-run
+dependall ===> external/bsd/kyua-atf-compat/usr.bin/atf2kyua
+dependall ===> external/bsd/libc++
+dependall ===> external/bsd/libc++/include
+dependall ===> external/bsd/libc++/lib
+dependall ===> external/bsd/nvi
+dependall ===> external/bsd/nvi/catalog
+dependall ===> external/bsd/nvi/usr.bin
+dependall ===> external/bsd/nvi/usr.bin/nvi
+dependall ===> external/bsd/nvi/usr.bin/recover
+dependall ===> external/bsd/nvi/docs
+dependall ===> external/bsd/nvi/docs/info
+dependall ===> external/gpl3
+dependall ===> external/historical
+dependall ===> external/historical/nawk
+dependall ===> external/historical/nawk/bin
+dependall ===> external/mit
+dependall ===> external/mit/lua
+dependall ===> external/mit/lua/usr.bin
+dependall ===> external/mit/lua/usr.bin/lua
+dependall ===> external/mit/lua/usr.bin/luac
+dependall ===> external/public-domain
+dependall ===> external/public-domain/sqlite
+dependall ===> external/public-domain/sqlite/lib
+dependall ===> external/public-domain/sqlite/bin
+dependall ===> external/public-domain/xz
+dependall ===> external/public-domain/xz/lib
+dependall ===> external/public-domain/xz/bin
+dependall ===> external/public-domain/xz/bin/xz
+dependall ===> external/public-domain/xz/bin/lzmainfo
+dependall ===> bin
+dependall ===> bin/cat
+dependall ===> bin/chmod
+dependall ===> bin/cp
+dependall ===> bin/date
+dependall ===> bin/df
+dependall ===> bin/echo
+dependall ===> bin/ed
+dependall ===> bin/expr
+dependall ===> bin/hostname
+dependall ===> bin/kill
+dependall ===> bin/ksh
+dependall ===> bin/ln
+dependall ===> bin/ls
+dependall ===> bin/mkdir
+dependall ===> bin/mv
+dependall ===> bin/pax
+dependall ===> bin/pwd
+dependall ===> bin/rm
+dependall ===> bin/rmdir
+dependall ===> bin/sh
+dependall ===> bin/sleep
+dependall ===> bin/stty
+dependall ===> bin/sync
+dependall ===> bin/test
+dependall ===> games
+dependall ===> games/adventure
+dependall ===> games/arithmetic
+dependall ===> games/bcd
+dependall ===> games/colorbars
+dependall ===> games/factor
+dependall ===> games/fortune
+dependall ===> games/fortune/fortune
+dependall ===> games/fortune/strfile
+dependall ===> games/fortune/unstr
+dependall ===> games/fortune/datfiles
+dependall ===> games/monop
+dependall ===> games/morse
+dependall ===> games/number
+dependall ===> games/pig
+dependall ===> games/ppt
+dependall ===> games/primes
+dependall ===> games/random
+dependall ===> games/tetris
+dependall ===> games/wargames
+dependall ===> libexec
+dependall ===> libexec/fingerd
+dependall ===> libexec/ftpd
+dependall ===> libexec/getty
+dependall ===> libexec/ld.elf_so
+dependall ===> libexec/makewhatis
+dependall ===> sbin
+dependall ===> sbin/chown
+dependall ===> sbin/fsck
+dependall ===> sbin/init
+dependall ===> sbin/mknod
+dependall ===> sbin/nologin
+dependall ===> sbin/ping
+dependall ===> sbin/reboot
+dependall ===> sbin/shutdown
+dependall ===> sbin/newfs_ext2fs
+dependall ===> sbin/fsck_ext2fs
+dependall ===> usr.bin
+dependall ===> usr.bin/asa
+dependall ===> usr.bin/banner
+dependall ===> usr.bin/basename
+dependall ===> usr.bin/bzip2
+dependall ===> usr.bin/bzip2recover
+dependall ===> usr.bin/cal
+dependall ===> usr.bin/calendar
+dependall ===> usr.bin/checknr
+dependall ===> usr.bin/chpass
+dependall ===> usr.bin/cksum
+dependall ===> usr.bin/col
+dependall ===> usr.bin/colcrt
+dependall ===> usr.bin/colrm
+dependall ===> usr.bin/column
+dependall ===> usr.bin/comm
+dependall ===> usr.bin/csplit
+dependall ===> usr.bin/ctags
+dependall ===> usr.bin/cut
+dependall ===> usr.bin/deroff
+dependall ===> usr.bin/dirname
+dependall ===> usr.bin/du
+dependall ===> usr.bin/env
+dependall ===> usr.bin/expand
+dependall ===> usr.bin/false
+dependall ===> usr.bin/finger
+dependall ===> usr.bin/fold
+dependall ===> usr.bin/fpr
+dependall ===> usr.bin/from
+dependall ===> usr.bin/fsplit
+dependall ===> usr.bin/ftp
+dependall ===> usr.bin/genassym
+dependall ===> usr.bin/getopt
+dependall ===> usr.bin/head
+dependall ===> usr.bin/hexdump
+dependall ===> usr.bin/id
+dependall ===> usr.bin/indent
+dependall ===> usr.bin/infocmp
+dependall ===> usr.bin/join
+dependall ===> usr.bin/jot
+dependall ===> usr.bin/lam
+dependall ===> usr.bin/last
+dependall ===> usr.bin/ldd
+dependall ===> usr.bin/ldd/elf32
+dependall ===> usr.bin/ldd/elf64
+dependall ===> usr.bin/ldd/elf32_compat
+dependall ===> usr.bin/ldd/build
+dependall ===> usr.bin/leave
+dependall ===> usr.bin/lock
+dependall ===> usr.bin/login
+dependall ===> usr.bin/logname
+dependall ===> usr.bin/lorder
+dependall ===> usr.bin/m4
+dependall ===> usr.bin/machine
+dependall ===> usr.bin/make
+dependall ===> usr.bin/man
+dependall ===> usr.bin/menuc
+dependall ===> usr.bin/mesg
+dependall ===> usr.bin/mkdep
+dependall ===> usr.bin/mkfifo
+dependall ===> usr.bin/mkstr
+dependall ===> usr.bin/mktemp
+dependall ===> usr.bin/msgc
+dependall ===> usr.bin/nbperf
+dependall ===> usr.bin/newgrp
+dependall ===> usr.bin/nice
+dependall ===> usr.bin/nl
+dependall ===> usr.bin/nohup
+dependall ===> usr.bin/passwd
+dependall ===> usr.bin/paste
+dependall ===> usr.bin/patch
+dependall ===> usr.bin/pathchk
+dependall ===> usr.bin/pr
+dependall ===> usr.bin/printenv
+dependall ===> usr.bin/printf
+dependall ===> usr.bin/pwhash
+dependall ===> usr.bin/renice
+dependall ===> usr.bin/rev
+dependall ===> usr.bin/sdiff
+dependall ===> usr.bin/sed
+dependall ===> usr.bin/seq
+dependall ===> usr.bin/shar
+dependall ===> usr.bin/shlock
+dependall ===> usr.bin/shuffle
+dependall ===> usr.bin/sort
+dependall ===> usr.bin/split
+dependall ===> usr.bin/stat
+dependall ===> usr.bin/su
+dependall ===> usr.bin/tail
+dependall ===> usr.bin/tee
+dependall ===> usr.bin/tic
+dependall ===> usr.bin/touch
+dependall ===> usr.bin/tput
+dependall ===> usr.bin/tr
+dependall ===> usr.bin/true
+dependall ===> usr.bin/tsort
+dependall ===> usr.bin/tty
+dependall ===> usr.bin/ul
+dependall ===> usr.bin/uname
+dependall ===> usr.bin/unexpand
+dependall ===> usr.bin/unifdef
+dependall ===> usr.bin/uniq
+dependall ===> usr.bin/units
+dependall ===> usr.bin/unvis
+dependall ===> usr.bin/unzip
+dependall ===> usr.bin/users
+dependall ===> usr.bin/uudecode
+dependall ===> usr.bin/uuencode
+dependall ===> usr.bin/uuidgen
+dependall ===> usr.bin/vis
+dependall ===> usr.bin/w
+dependall ===> usr.bin/wall
+dependall ===> usr.bin/wc
+dependall ===> usr.bin/what
+dependall ===> usr.bin/whereis
+dependall ===> usr.bin/who
+dependall ===> usr.bin/whois
+dependall ===> usr.bin/write
+dependall ===> usr.bin/xargs
+dependall ===> usr.bin/xinstall
+dependall ===> usr.bin/xstr
+dependall ===> usr.bin/yes
+dependall ===> usr.bin/apropos
+dependall ===> usr.bin/whatis
+dependall ===> usr.bin/bdes
+dependall ===> usr.bin/soelim
+dependall ===> usr.bin/gzip
+dependall ===> usr.sbin
+dependall ===> usr.sbin/chroot
+dependall ===> usr.sbin/i2cscan
+dependall ===> usr.sbin/installboot
+dependall ===> usr.sbin/link
+dependall ===> usr.sbin/mtree
+dependall ===> usr.sbin/pwd_mkdb
+dependall ===> usr.sbin/postinstall
+dependall ===> usr.sbin/rdate
+dependall ===> usr.sbin/traceroute
+dependall ===> usr.sbin/unlink
+dependall ===> usr.sbin/user
+dependall ===> usr.sbin/vipw
+dependall ===> usr.sbin/vnconfig
+dependall ===> usr.sbin/zic
+dependall ===> share
+dependall ===> share/misc
+dependall ===> share/mk
+dependall ===> share/terminfo
+dependall ===> share/zoneinfo
+dependall ===> sys
+dependall ===> sys/arch
+dependall ===> sys/arch/i386
+dependall ===> sys/arch/i386/include
+dependall ===> sys/arch/i386/stand
+dependall ===> sys/arch/i386/stand/mbr
+dependall ===> sys/arch/i386/stand/mbr/mbr
+dependall ===> sys/arch/i386/stand/mbr/mbr_bootsel
+dependall ===> sys/arch/i386/stand/mbr/mbr_ext
+dependall ===> sys/arch/i386/stand/mbr/mbr_com0
+dependall ===> sys/arch/i386/stand/mbr/mbr_com0_9600
+dependall ===> sys/arch/i386/stand/mbr/gptmbr
+dependall ===> sys/arch/i386/stand/boot
+dependall ===> sys/arch/i386/stand/boot/biosboot
+making sure the i386 library is up to date...
+`libi386.a' is up to date.
+making sure the sa library is up to date...
+`libsa.a' is up to date.
+making sure the z library is up to date...
+`libz.a' is up to date.
+depending the i386 library objects
+depending the sa library objects
+depending the z library objects
+making sure the i386 library is up to date...
+`libi386.a' is up to date.
+making sure the sa library is up to date...
+`libsa.a' is up to date.
+making sure the z library is up to date...
+`libz.a' is up to date.
+dependall ===> sys/arch/i386/stand/bootxx
+dependall ===> sys/arch/i386/stand/bootxx/bootxx_ffsv1
+depending the i386 library objects
+depending the sa library objects
+making sure the i386 library is up to date...
+`libi386.a' is up to date.
+making sure the sa library is up to date...
+`libsa.a' is up to date.
+dependall ===> sys/arch/i386/stand/bootxx/bootxx_minixfs3
+depending the i386 library objects
+depending the sa library objects
+making sure the i386 library is up to date...
+`libi386.a' is up to date.
+making sure the sa library is up to date...
+`libsa.a' is up to date.
+dependall ===> sys/arch/i386/stand/bootxx/bootxx_ext2fs
+depending the i386 library objects
+depending the sa library objects
+making sure the i386 library is up to date...
+`libi386.a' is up to date.
+making sure the sa library is up to date...
+`libsa.a' is up to date.
+dependall ===> sys/arch/i386/stand/cdboot
+dependall ===> sys/arch/i386/../x86/include
+dependall ===> sys/dev
+dependall ===> sys/dev/i2c
+dependall ===> sys/fs
+dependall ===> sys/fs/cd9660
+dependall ===> sys/fs/msdosfs
+dependall ===> sys/fs/puffs
+dependall ===> sys/net
+dependall ===> sys/netinet
+dependall ===> sys/netinet6
+dependall ===> sys/sys
+dependall ===> sys/ufs
+dependall ===> sys/ufs/ffs
+dependall ===> sys/ufs/lfs
+dependall ===> sys/ufs/mfs
+dependall ===> sys/ufs/ufs
+dependall ===> sys/ufs/ext2fs
+dependall ===> sys/uvm
+dependall ===> etc
+dependall ===> etc/devmand
+dependall ===> etc/devmand/scripts
+dependall ===> etc/defaults
+dependall ===> etc/mtree
+dependall ===> tests
+dependall ===> tests/bin
+dependall ===> tests/bin/cat
+dependall ===> tests/bin/cp
+dependall ===> tests/bin/dd
+dependall ===> tests/bin/df
+dependall ===> tests/bin/expr
+dependall ===> tests/bin/pax
+dependall ===> tests/bin/ps
+dependall ===> tests/bin/sh
+dependall ===> tests/bin/sleep
+dependall ===> tests/bin/tar
+dependall ===> tests/dev
+dependall ===> tests/dev/cgd
+dependall ===> tests/dev/raidframe
+dependall ===> tests/games
+dependall ===> tests/include
+dependall ===> tests/include/machine
+dependall ===> tests/include/sys
+dependall ===> tests/lib
+dependall ===> tests/lib/csu
+dependall ===> tests/lib/csu/dso
+dependall ===> tests/lib/libc
+dependall ===> tests/lib/libc/tls_dso
+dependall ===> tests/lib/libc/db
+dependall ===> tests/lib/libc/hash
+dependall ===> tests/lib/libc/inet
+dependall ===> tests/lib/libc/locale
+dependall ===> tests/lib/libc/net
+dependall ===> tests/lib/libc/regex
+dependall ===> tests/lib/libc/stdlib
+dependall ===> tests/lib/libc/stdio
+dependall ===> tests/lib/libc/string
+dependall ===> tests/lib/libc/termios
+dependall ===> tests/lib/libc/time
+dependall ===> tests/lib/libcrypt
+dependall ===> tests/lib/libcurses
+dependall ===> tests/lib/libcurses/director
+dependall ===> tests/lib/libcurses/slave
+dependall ===> tests/lib/libcurses/tests
+dependall ===> tests/lib/libcurses/check_files
+dependall ===> tests/lib/libexecinfo
+dependall ===> tests/lib/libm
+dependall ===> tests/lib/libprop
+dependall ===> tests/lib/libutil
+dependall ===> tests/libexec
+dependall ===> tests/sbin
+dependall ===> tests/sbin/fsck_ffs
+dependall ===> tests/sbin/ifconfig
+dependall ===> tests/sbin/newfs
+dependall ===> tests/sbin/newfs_msdos
+dependall ===> tests/sbin/resize_ffs
+dependall ===> tests/sbin/route
+dependall ===> tests/sbin/sysctl
+dependall ===> tests/sys
+dependall ===> tests/sys/rc
+dependall ===> tests/usr.bin
+dependall ===> tests/usr.bin/awk
+dependall ===> tests/usr.bin/basename
+dependall ===> tests/usr.bin/bzip2
+dependall ===> tests/usr.bin/cc
+dependall ===> tests/usr.bin/cmp
+dependall ===> tests/usr.bin/config
+dependall ===> tests/usr.bin/config/support
+dependall ===> tests/usr.bin/config/support/arch
+dependall ===> tests/usr.bin/config/support/arch/regress
+dependall ===> tests/usr.bin/config/support/arch/regress/conf
+dependall ===> tests/usr.bin/config/support/conf
+dependall ===> tests/usr.bin/cut
+dependall ===> tests/usr.bin/diff
+dependall ===> tests/usr.bin/dirname
+dependall ===> tests/usr.bin/find
+dependall ===> tests/usr.bin/grep
+dependall ===> tests/usr.bin/gzip
+dependall ===> tests/usr.bin/id
+dependall ===> tests/usr.bin/infocmp
+dependall ===> tests/usr.bin/jot
+dependall ===> tests/usr.bin/m4
+dependall ===> tests/usr.bin/make
+dependall ===> tests/usr.bin/mkdep
+dependall ===> tests/usr.bin/nbperf
+dependall ===> tests/usr.bin/netpgpverify
+dependall ===> tests/usr.bin/pr
+dependall ===> tests/usr.bin/rump_server
+dependall ===> tests/usr.bin/shmif_dumpbus
+dependall ===> tests/usr.bin/sdiff
+dependall ===> tests/usr.bin/sed
+dependall ===> tests/usr.bin/sort
+dependall ===> tests/usr.bin/tmux
+dependall ===> tests/usr.bin/tr
+dependall ===> tests/usr.bin/unifdef
+dependall ===> tests/usr.bin/xlint
+dependall ===> tests/usr.bin/xlint/lint1
+dependall ===> tests/usr.sbin
+dependall ===> tests/usr.sbin/mtree
+dependall ===> tests/usr.sbin/tcpdump
+dependall ===> tests/usr.sbin/traceroute
+dependall ===> tests/usr.sbin/useradd
+dependall ===> tests/share
+dependall ===> tests/share/examples
+dependall ===> tests/share/mk
+dependall ===> minix
+dependall ===> minix/include
+dependall ===> minix/include/arch
+dependall ===> minix/include/arch/i386
+dependall ===> minix/include/arch/i386/include
+dependall ===> minix/include/ddekit
+dependall ===> minix/include/ddekit/minix
+dependall ===> minix/include/libdde
+dependall ===> minix/include/minix
+dependall ===> minix/include/net
+dependall ===> minix/include/net/gen
+dependall ===> minix/include/sys
+dependall ===> minix/benchmarks
+dependall ===> minix/benchmarks/unixbench-5.1.2
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/arithoh
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/register
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/short
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/int
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/long
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/float
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/double
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/whetstone-double
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/hanoi
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/poll
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/select
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/fstime
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/syscall
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/context1
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/pipe
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/spawn
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/execl
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/dhry2
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/dhry2reg
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/looper
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/multi.sh
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/tst.sh
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/unixbench.logo
+dependall ===> minix/benchmarks/unixbench-5.1.2/pgms/index.base
+dependall ===> minix/benchmarks/unixbench-5.1.2/testdir
+dependall ===> minix/benchmarks/unixbench-5.1.2/testdir/cctest.c
+dependall ===> minix/benchmarks/unixbench-5.1.2/testdir/dc.dat
+dependall ===> minix/benchmarks/unixbench-5.1.2/testdir/large.txt
+dependall ===> minix/benchmarks/unixbench-5.1.2/testdir/sort.src
+dependall ===> minix/benchmarks/unixbench-5.1.2/run.sh
+dependall ===> minix/bin
+dependall ===> minix/commands
+dependall ===> minix/commands/add_route
+dependall ===> minix/commands/arp
+dependall ===> minix/commands/at
+dependall ===> minix/commands/backup
+dependall ===> minix/commands/btrace
+dependall ===> minix/commands/cawf
+dependall ===> minix/commands/cdprobe
+dependall ===> minix/commands/ci
+dependall ===> minix/commands/cleantmp
+dependall ===> minix/commands/cmp
+dependall ===> minix/commands/co
+dependall ===> minix/commands/compress
+dependall ===> minix/commands/crc
+dependall ===> minix/commands/cron
+dependall ===> minix/commands/crontab
+dependall ===> minix/commands/dd
+dependall ===> minix/commands/decomp16
+dependall ===> minix/commands/DESCRIBE
+dependall ===> minix/commands/devmand
+dependall ===> minix/commands/devsize
+dependall ===> minix/commands/dhcpd
+dependall ===> minix/commands/dhrystone
+dependall ===> minix/commands/diff
+dependall ===> minix/commands/diskctl
+dependall ===> minix/commands/eject
+dependall ===> minix/commands/fbdctl
+dependall ===> minix/commands/find
+dependall ===> minix/commands/fix
+dependall ===> minix/commands/format
+dependall ===> minix/commands/fsck.mfs
+dependall ===> minix/commands/gcov-pull
+dependall ===> minix/commands/grep
+dependall ===> minix/commands/host
+dependall ===> minix/commands/hostaddr
+dependall ===> minix/commands/ifconfig
+dependall ===> minix/commands/ifdef
+dependall ===> minix/commands/intr
+dependall ===> minix/commands/ipcrm
+dependall ===> minix/commands/ipcs
+dependall ===> minix/commands/irdpd
+dependall ===> minix/commands/isoread
+dependall ===> minix/commands/loadkeys
+dependall ===> minix/commands/loadramdisk
+dependall ===> minix/commands/logger
+dependall ===> minix/commands/look
+dependall ===> minix/commands/lp
+dependall ===> minix/commands/lpd
+dependall ===> minix/commands/lspci
+dependall ===> minix/commands/mail
+dependall ===> minix/commands/MAKEDEV
+dependall ===> minix/commands/mined
+dependall ===> minix/commands/mount
+dependall ===> minix/commands/mt
+dependall ===> minix/commands/netconf
+dependall ===> minix/commands/nonamed
+dependall ===> minix/commands/postinstall
+dependall ===> minix/commands/prep
+dependall ===> minix/commands/printroot
+dependall ===> minix/commands/profile
+dependall ===> minix/commands/progressbar
+dependall ===> minix/commands/pr_routes
+dependall ===> minix/commands/ps
+dependall ===> minix/commands/pwdauth
+dependall ===> minix/commands/ramdisk
+dependall ===> minix/commands/rarpd
+dependall ===> minix/commands/rawspeed
+dependall ===> minix/commands/rcp
+dependall ===> minix/commands/readclock
+dependall ===> minix/commands/remsync
+dependall ===> minix/commands/rget
+dependall ===> minix/commands/rlogin
+dependall ===> minix/commands/rotate
+dependall ===> minix/commands/rsh
+dependall ===> minix/commands/rshd
+dependall ===> minix/commands/service
+dependall ===> minix/commands/setup
+dependall ===> minix/commands/slip
+dependall ===> minix/commands/spell
+dependall ===> minix/commands/sprofalyze
+dependall ===> minix/commands/sprofdiff
+dependall ===> minix/commands/srccrc
+dependall ===> minix/commands/svclog
+dependall ===> minix/commands/svrctl
+dependall ===> minix/commands/swifi
+dependall ===> minix/commands/synctree
+dependall ===> minix/commands/sysenv
+dependall ===> minix/commands/syslogd
+dependall ===> minix/commands/tcpd
+dependall ===> minix/commands/tcpdp
+dependall ===> minix/commands/tcpstat
+dependall ===> minix/commands/telnet
+dependall ===> minix/commands/telnetd
+dependall ===> minix/commands/term
+dependall ===> minix/commands/termcap
+dependall ===> minix/commands/tget
+dependall ===> minix/commands/time
+dependall ===> minix/commands/truncate
+dependall ===> minix/commands/udpstat
+dependall ===> minix/commands/umount
+dependall ===> minix/commands/update
+dependall ===> minix/commands/version
+dependall ===> minix/commands/vol
+dependall ===> minix/commands/writeisofs
+dependall ===> minix/commands/fetch
+dependall ===> minix/commands/zdump
+dependall ===> minix/commands/zmodem
+dependall ===> minix/commands/pkgin_cd
+dependall ===> minix/commands/pkgin_all
+dependall ===> minix/commands/pkgin_sets
+dependall ===> minix/commands/worldstone
+dependall ===> minix/commands/updateboot
+dependall ===> minix/commands/update_bootcfg
+dependall ===> minix/commands/atnormalize
+dependall ===> minix/commands/dosread
+dependall ===> minix/commands/fdisk
+dependall ===> minix/commands/loadfont
+dependall ===> minix/commands/autopart
+dependall ===> minix/commands/part
+dependall ===> minix/commands/partition
+dependall ===> minix/commands/playwave
+dependall ===> minix/commands/recwave
+dependall ===> minix/commands/repartition
+dependall ===> minix/commands/screendump
+dependall ===> minix/fs
+dependall ===> minix/fs/mfs
+dependall ===> minix/fs/pfs
+dependall ===> minix/fs/ext2
+dependall ===> minix/fs/procfs
+dependall ===> minix/fs/hgfs
+dependall ===> minix/fs/vbfs
+dependall ===> minix/kernel
+dependall ===> minix/lib
+dependall ===> minix/lib/libsys
+dependall ===> minix/lib/libmthread
+dependall ===> minix/lib/libasyn
+dependall ===> minix/lib/libaudiodriver
+dependall ===> minix/lib/libbdev
+dependall ===> minix/lib/libblockdriver
+dependall ===> minix/lib/libchardriver
+dependall ===> minix/lib/libddekit
+dependall ===> minix/lib/libddekit/build
+dependall ===> minix/lib/libddekit/build/ddekit
+dependall ===> minix/lib/libddekit/build/ddekit_usb_client
+dependall ===> minix/lib/libddekit/build/ddekit_usb_server
+dependall ===> minix/lib/libdevman
+dependall ===> minix/lib/libexec
+dependall ===> minix/lib/libfetch
+dependall ===> minix/lib/libinputdriver
+dependall ===> minix/lib/libminc
+dependall ===> minix/lib/libminixfs
+dependall ===> minix/lib/libnetdriver
+dependall ===> minix/lib/libsffs
+dependall ===> minix/lib/libtimers
+dependall ===> minix/lib/libusb
+dependall ===> minix/lib/libvtreefs
+dependall ===> minix/lib/libgcc_s_empty
+dependall ===> minix/lib/liblwip
+dependall ===> minix/lib/libnetsock
+dependall ===> minix/lib/libhgfs
+dependall ===> minix/lib/libvassert
+dependall ===> minix/lib/libvboxfs
+dependall ===> minix/lib/libvirtio
+dependall ===> minix/llvm
+dependall ===> minix/man
+dependall ===> minix/man/man1
+dependall ===> minix/man/man1x
+dependall ===> minix/man/man2
+dependall ===> minix/man/man4
+dependall ===> minix/man/man5
+dependall ===> minix/man/man7
+dependall ===> minix/man/man8
+dependall ===> minix/man/man9
+dependall ===> minix/net
+dependall ===> minix/net/inet
+dependall ===> minix/net/lwip
+dependall ===> minix/sbin
+dependall ===> minix/servers
+dependall ===> minix/servers/ds
+dependall ===> minix/servers/input
+dependall ===> minix/servers/pm
+     create  pm/forkexit.d
+     create  pm/.depend
+    compile  pm/forkexit.o
+       link  pm/pm
+dependall ===> minix/servers/rs
+dependall ===> minix/servers/sched
+dependall ===> minix/servers/vfs
+dependall ===> minix/servers/vm
+dependall ===> minix/servers/ipc
+dependall ===> minix/servers/is
+dependall ===> minix/servers/devman
+dependall ===> minix/share
+dependall ===> minix/tests
+dependall ===> minix/tests/blocktest
+dependall ===> minix/tests/ddekit
+dependall ===> minix/usr.bin
+dependall ===> minix/usr.bin/ministat
+dependall ===> minix/usr.bin/top
+dependall ===> minix/usr.bin/toproto
+dependall ===> minix/usr.sbin
+dependall ===> minix/usr.sbin/mkfs.mfs
+dependall ===> minix/usr.sbin/mkfs.mfs/v3
+dependall ===> minix/usr.sbin/mkproto
+dependall ===> minix/drivers
+dependall ===> minix/drivers/audio
+dependall ===> minix/drivers/audio/es1370
+dependall ===> minix/drivers/audio/es1371
+dependall ===> minix/drivers/audio/sb16
+dependall ===> minix/drivers/clock
+dependall ===> minix/drivers/clock/readclock
+dependall ===> minix/drivers/eeprom
+dependall ===> minix/drivers/examples
+dependall ===> minix/drivers/examples/hello
+dependall ===> minix/drivers/iommu
+dependall ===> minix/drivers/iommu/amddev
+dependall ===> minix/drivers/net
+dependall ===> minix/drivers/net/atl2
+dependall ===> minix/drivers/net/dec21140A
+dependall ===> minix/drivers/net/dp8390
+dependall ===> minix/drivers/net/dpeth
+dependall ===> minix/drivers/net/e1000
+dependall ===> minix/drivers/net/fxp
+dependall ===> minix/drivers/net/lance
+dependall ===> minix/drivers/net/orinoco
+dependall ===> minix/drivers/net/rtl8139
+dependall ===> minix/drivers/net/rtl8169
+dependall ===> minix/drivers/net/virtio_net
+dependall ===> minix/drivers/net/uds
+dependall ===> minix/drivers/power
+dependall ===> minix/drivers/power/acpi
+dependall ===> minix/drivers/printer
+dependall ===> minix/drivers/printer/printer
+dependall ===> minix/drivers/sensors
+dependall ===> minix/drivers/system
+dependall ===> minix/drivers/system/log
+dependall ===> minix/drivers/system/random
+dependall ===> minix/drivers/usb
+dependall ===> minix/drivers/usb/usb_storage
+dependall ===> minix/drivers/usb/usb_hub
+dependall ===> minix/drivers/video
+dependall ===> minix/drivers/vmm_guest
+dependall ===> minix/drivers/vmm_guest/vbox
+dependall ===> minix/drivers/bus
+dependall ===> minix/drivers/bus/ti1225
+dependall ===> minix/drivers/bus/pci
+dependall ===> minix/drivers/tty
+dependall ===> minix/drivers/tty/pty
+dependall ===> minix/drivers/tty/tty
+dependall ===> minix/drivers/tty/tty/keymaps
+dependall ===> minix/drivers/hid
+dependall ===> minix/drivers/hid/pckbd
+dependall ===> minix/drivers/storage
+dependall ===> minix/drivers/storage/ahci
+dependall ===> minix/drivers/storage/fbd
+dependall ===> minix/drivers/storage/filter
+dependall ===> minix/drivers/storage/virtio_blk
+dependall ===> minix/drivers/storage/mmc
+dependall ===> minix/drivers/storage/vnd
+dependall ===> minix/drivers/storage/at_wini
+dependall ===> minix/drivers/storage/floppy
+dependall ===> minix/drivers/storage/ramdisk
+     create  Generating ramdisk image
+dependall ===> minix/drivers/storage/memory
+     create  memory/memory.d
+     create  memory/.depend
+     create  memory/imgrd.o
+       link  memory/memory
+install ===> .	(with: BUILD_tools=no BUILD_lib=no)
+install ===> include
+install ===> include/../minix/include
+install ===> include/../minix/include/arch
+install ===> include/../minix/include/arch/i386
+install ===> include/../minix/include/arch/i386/include
+install ===> include/../minix/include/ddekit
+install ===> include/../minix/include/ddekit/minix
+install ===> include/../minix/include/libdde
+install ===> include/../minix/include/minix
+install ===> include/../minix/include/net
+install ===> include/../minix/include/net/gen
+install ===> include/../minix/include/sys
+install ===> include/../common/include/prop
+install ===> include/../common/include/ppath
+install ===> gnu
+install ===> gnu/dist
+install ===> gnu/usr.bin
+install ===> gnu/usr.bin/texinfo
+install ===> gnu/usr.bin/texinfo/makedoc
+install ===> gnu/usr.bin/texinfo/common
+install ===> gnu/usr.bin/texinfo/info
+install ===> gnu/usr.bin/texinfo/infokey
+install ===> gnu/usr.bin/texinfo/install-info
+install ===> gnu/usr.bin/texinfo/makeinfo
+install ===> gnu/usr.bin/texinfo/texi2dvi
+install ===> gnu/usr.bin/texinfo/texindex
+install ===> external
+install ===> external/bsd
+install ===> external/bsd/byacc
+install ===> external/bsd/byacc/bin
+install ===> external/bsd/file
+install ===> external/bsd/file/lib
+install ===> external/bsd/file/bin
+install ===> external/bsd/flex
+install ===> external/bsd/flex/lib
+install ===> external/bsd/flex/bin
+install ===> external/bsd/less
+install ===> external/bsd/less/bin
+install ===> external/bsd/less/bin/less
+install ===> external/bsd/less/bin/lessecho
+install ===> external/bsd/less/bin/lesskey
+install ===> external/bsd/libarchive
+install ===> external/bsd/libarchive/lib
+install ===> external/bsd/libarchive/lib/libarchive
+    install  /usr/man/man3/archive_read_open_FILE.3
+    install  /usr/man/man3/archive_read_open_file.3
+install ===> external/bsd/libarchive/lib/libarchive_fe
+install ===> external/bsd/libarchive/bin
+install ===> external/bsd/mdocml
+install ===> external/bsd/mdocml/lib
+install ===> external/bsd/mdocml/lib/libmandoc
+install ===> external/bsd/mdocml/bin
+install ===> external/bsd/mdocml/bin/mandoc
+install ===> external/bsd/mdocml/man
+install ===> external/bsd/atf
+install ===> external/bsd/atf/etc
+install ===> external/bsd/atf/lib
+install ===> external/bsd/atf/lib/libatf-c
+install ===> external/bsd/atf/lib/libatf-c++
+install ===> external/bsd/atf/libexec
+install ===> external/bsd/atf/libexec/atf-check
+install ===> external/bsd/atf/share
+install ===> external/bsd/atf/share/doc
+install ===> external/bsd/atf/share/doc/atf
+install ===> external/bsd/atf/usr.bin
+install ===> external/bsd/atf/usr.bin/atf-sh
+install ===> external/bsd/atf/tests
+install ===> external/bsd/atf/tests/atf
+install ===> external/bsd/atf/tests/atf/atf-c
+install ===> external/bsd/atf/tests/atf/atf-c/detail
+install ===> external/bsd/atf/tests/atf/atf-c++
+install ===> external/bsd/atf/tests/atf/atf-c++/detail
+install ===> external/bsd/atf/tests/atf/atf-sh
+install ===> external/bsd/atf/tests/atf/test-programs
+install ===> external/bsd/lutok
+install ===> external/bsd/lutok/lib
+install ===> external/bsd/lutok/lib/liblutok
+install ===> external/bsd/lutok/share
+install ===> external/bsd/lutok/share/examples
+install ===> external/bsd/lutok/share/examples/lutok
+install ===> external/bsd/lutok/tests
+install ===> external/bsd/lutok/tests/lib
+install ===> external/bsd/lutok/tests/lib/liblutok
+install ===> external/bsd/lutok/tests/share
+install ===> external/bsd/lutok/tests/share/lutok
+install ===> external/bsd/kyua-testers
+install ===> external/bsd/kyua-testers/lib
+install ===> external/bsd/kyua-testers/lib/libtester
+install ===> external/bsd/kyua-testers/lib/libatf_tester
+install ===> external/bsd/kyua-testers/libexec
+install ===> external/bsd/kyua-testers/libexec/kyua-atf-tester
+install ===> external/bsd/kyua-testers/libexec/kyua-plain-tester
+install ===> external/bsd/kyua-testers/share
+install ===> external/bsd/kyua-testers/share/doc
+install ===> external/bsd/kyua-testers/share/doc/kyua-testers
+install ===> external/bsd/kyua-testers/share/man
+install ===> external/bsd/kyua-testers/share/man/man1
+install ===> external/bsd/kyua-testers/share/man/man5
+install ===> external/bsd/kyua-testers/tests
+install ===> external/bsd/kyua-testers/tests/kyua-testers
+install ===> external/bsd/kyua-cli
+install ===> external/bsd/kyua-cli/etc
+install ===> external/bsd/kyua-cli/etc/kyua
+install ===> external/bsd/kyua-cli/lib
+install ===> external/bsd/kyua-cli/lib/utils
+install ===> external/bsd/kyua-cli/lib/utils/cmdline
+install ===> external/bsd/kyua-cli/lib/utils/config
+install ===> external/bsd/kyua-cli/lib/utils/format
+install ===> external/bsd/kyua-cli/lib/utils/fs
+install ===> external/bsd/kyua-cli/lib/utils/logging
+install ===> external/bsd/kyua-cli/lib/utils/process
+install ===> external/bsd/kyua-cli/lib/utils/signals
+install ===> external/bsd/kyua-cli/lib/utils/sqlite
+install ===> external/bsd/kyua-cli/lib/utils/text
+install ===> external/bsd/kyua-cli/lib/store
+install ===> external/bsd/kyua-cli/lib/engine
+install ===> external/bsd/kyua-cli/lib/cli
+install ===> external/bsd/kyua-cli/share
+install ===> external/bsd/kyua-cli/share/doc
+install ===> external/bsd/kyua-cli/share/doc/kyua-cli
+install ===> external/bsd/kyua-cli/share/examples
+install ===> external/bsd/kyua-cli/share/examples/kyua-cli
+install ===> external/bsd/kyua-cli/share/kyua-cli
+install ===> external/bsd/kyua-cli/share/kyua-cli/misc
+install ===> external/bsd/kyua-cli/share/kyua-cli/store
+install ===> external/bsd/kyua-cli/share/man
+install ===> external/bsd/kyua-cli/share/man/man5
+install ===> external/bsd/kyua-cli/share/man/man7
+install ===> external/bsd/kyua-cli/tests
+install ===> external/bsd/kyua-cli/tests/kyua-cli
+install ===> external/bsd/kyua-cli/tests/kyua-cli/bootstrap
+install ===> external/bsd/kyua-cli/tests/kyua-cli/cli
+install ===> external/bsd/kyua-cli/tests/kyua-cli/engine
+install ===> external/bsd/kyua-cli/tests/kyua-cli/engine/drivers
+install ===> external/bsd/kyua-cli/tests/kyua-cli/examples
+install ===> external/bsd/kyua-cli/tests/kyua-cli/integration
+install ===> external/bsd/kyua-cli/tests/kyua-cli/integration/helpers
+install ===> external/bsd/kyua-cli/tests/kyua-cli/store
+install ===> external/bsd/kyua-cli/tests/kyua-cli/utils
+install ===> external/bsd/kyua-cli/tests/kyua-cli/utils/cmdline
+install ===> external/bsd/kyua-cli/tests/kyua-cli/utils/config
+install ===> external/bsd/kyua-cli/tests/kyua-cli/utils/format
+install ===> external/bsd/kyua-cli/tests/kyua-cli/utils/fs
+install ===> external/bsd/kyua-cli/tests/kyua-cli/utils/logging
+install ===> external/bsd/kyua-cli/tests/kyua-cli/utils/process
+install ===> external/bsd/kyua-cli/tests/kyua-cli/utils/signals
+install ===> external/bsd/kyua-cli/tests/kyua-cli/utils/sqlite
+install ===> external/bsd/kyua-cli/tests/kyua-cli/utils/text
+install ===> external/bsd/kyua-cli/usr.bin
+install ===> external/bsd/kyua-cli/usr.bin/kyua
+install ===> external/bsd/kyua-atf-compat
+install ===> external/bsd/kyua-atf-compat/share
+install ===> external/bsd/kyua-atf-compat/share/doc
+install ===> external/bsd/kyua-atf-compat/share/doc/kyua-atf-compat
+install ===> external/bsd/kyua-atf-compat/share/kyua-atf-compat
+install ===> external/bsd/kyua-atf-compat/tests
+install ===> external/bsd/kyua-atf-compat/tests/kyua-atf-compat
+install ===> external/bsd/kyua-atf-compat/usr.bin
+install ===> external/bsd/kyua-atf-compat/usr.bin/atf-report
+install ===> external/bsd/kyua-atf-compat/usr.bin/atf-run
+install ===> external/bsd/kyua-atf-compat/usr.bin/atf2kyua
+install ===> external/bsd/libc++
+install ===> external/bsd/libc++/include
+install ===> external/bsd/libc++/lib
+install ===> external/bsd/nvi
+install ===> external/bsd/nvi/catalog
+install ===> external/bsd/nvi/usr.bin
+install ===> external/bsd/nvi/usr.bin/nvi
+install ===> external/bsd/nvi/usr.bin/recover
+install ===> external/bsd/nvi/docs
+install ===> external/bsd/nvi/docs/info
+install ===> external/gpl3
+install ===> external/historical
+install ===> external/historical/nawk
+install ===> external/historical/nawk/bin
+install ===> external/mit
+install ===> external/mit/lua
+install ===> external/mit/lua/usr.bin
+install ===> external/mit/lua/usr.bin/lua
+install ===> external/mit/lua/usr.bin/luac
+install ===> external/public-domain
+install ===> external/public-domain/sqlite
+install ===> external/public-domain/sqlite/lib
+install ===> external/public-domain/sqlite/bin
+install ===> external/public-domain/xz
+install ===> external/public-domain/xz/lib
+install ===> external/public-domain/xz/bin
+install ===> external/public-domain/xz/bin/xz
+install ===> external/public-domain/xz/bin/lzmainfo
+install ===> bin
+install ===> bin/cat
+install ===> bin/chmod
+install ===> bin/cp
+install ===> bin/date
+install ===> bin/df
+install ===> bin/echo
+install ===> bin/ed
+install ===> bin/expr
+install ===> bin/hostname
+install ===> bin/kill
+install ===> bin/ksh
+install ===> bin/ln
+install ===> bin/ls
+install ===> bin/mkdir
+install ===> bin/mv
+install ===> bin/pax
+install ===> bin/pwd
+install ===> bin/rm
+install ===> bin/rmdir
+install ===> bin/sh
+install ===> bin/sh/USD.doc
+install ===> bin/sleep
+install ===> bin/stty
+install ===> bin/sync
+install ===> bin/test
+install ===> games
+install ===> games/adventure
+install ===> games/arithmetic
+install ===> games/bcd
+install ===> games/colorbars
+install ===> games/factor
+install ===> games/fortune
+install ===> games/fortune/fortune
+install ===> games/fortune/strfile
+install ===> games/fortune/unstr
+install ===> games/fortune/datfiles
+install ===> games/monop
+install ===> games/morse
+install ===> games/number
+install ===> games/pig
+install ===> games/ppt
+install ===> games/primes
+install ===> games/random
+install ===> games/tetris
+install ===> games/wargames
+install ===> libexec
+install ===> libexec/fingerd
+install ===> libexec/ftpd
+install ===> libexec/getty
+install ===> libexec/ld.elf_so
+install ===> libexec/makewhatis
+install ===> sbin
+install ===> sbin/chown
+install ===> sbin/fsck
+install ===> sbin/init
+install ===> sbin/mknod
+install ===> sbin/nologin
+install ===> sbin/ping
+install ===> sbin/reboot
+install ===> sbin/shutdown
+install ===> sbin/newfs_ext2fs
+install ===> sbin/fsck_ext2fs
+install ===> usr.bin
+install ===> usr.bin/asa
+install ===> usr.bin/banner
+install ===> usr.bin/basename
+install ===> usr.bin/bzip2
+install ===> usr.bin/bzip2recover
+install ===> usr.bin/cal
+install ===> usr.bin/calendar
+install ===> usr.bin/checknr
+install ===> usr.bin/chpass
+install ===> usr.bin/cksum
+install ===> usr.bin/col
+install ===> usr.bin/colcrt
+install ===> usr.bin/colrm
+install ===> usr.bin/column
+install ===> usr.bin/comm
+install ===> usr.bin/csplit
+install ===> usr.bin/ctags
+install ===> usr.bin/cut
+install ===> usr.bin/deroff
+install ===> usr.bin/dirname
+install ===> usr.bin/du
+install ===> usr.bin/env
+install ===> usr.bin/expand
+install ===> usr.bin/false
+install ===> usr.bin/finger
+install ===> usr.bin/fold
+install ===> usr.bin/fpr
+install ===> usr.bin/from
+install ===> usr.bin/fsplit
+install ===> usr.bin/ftp
+install ===> usr.bin/genassym
+install ===> usr.bin/getopt
+install ===> usr.bin/head
+install ===> usr.bin/hexdump
+install ===> usr.bin/id
+install ===> usr.bin/indent
+install ===> usr.bin/infocmp
+install ===> usr.bin/join
+install ===> usr.bin/jot
+install ===> usr.bin/lam
+install ===> usr.bin/last
+install ===> usr.bin/ldd
+install ===> usr.bin/ldd/elf32
+install ===> usr.bin/ldd/elf64
+install ===> usr.bin/ldd/elf32_compat
+install ===> usr.bin/ldd/build
+install ===> usr.bin/leave
+install ===> usr.bin/lock
+install ===> usr.bin/login
+install ===> usr.bin/logname
+install ===> usr.bin/lorder
+install ===> usr.bin/m4
+install ===> usr.bin/machine
+install ===> usr.bin/make
+install ===> usr.bin/man
+install ===> usr.bin/menuc
+install ===> usr.bin/mesg
+install ===> usr.bin/mkdep
+install ===> usr.bin/mkfifo
+install ===> usr.bin/mkstr
+install ===> usr.bin/mktemp
+install ===> usr.bin/msgc
+install ===> usr.bin/nbperf
+install ===> usr.bin/newgrp
+install ===> usr.bin/nice
+install ===> usr.bin/nl
+install ===> usr.bin/nohup
+install ===> usr.bin/passwd
+install ===> usr.bin/paste
+install ===> usr.bin/patch
+install ===> usr.bin/pathchk
+install ===> usr.bin/pr
+install ===> usr.bin/printenv
+install ===> usr.bin/printf
+install ===> usr.bin/pwhash
+install ===> usr.bin/renice
+install ===> usr.bin/rev
+install ===> usr.bin/sdiff
+install ===> usr.bin/sed
+install ===> usr.bin/seq
+install ===> usr.bin/shar
+install ===> usr.bin/shlock
+install ===> usr.bin/shuffle
+install ===> usr.bin/sort
+install ===> usr.bin/split
+install ===> usr.bin/stat
+install ===> usr.bin/su
+install ===> usr.bin/tail
+install ===> usr.bin/tee
+install ===> usr.bin/tic
+install ===> usr.bin/touch
+install ===> usr.bin/tput
+install ===> usr.bin/tr
+install ===> usr.bin/true
+install ===> usr.bin/tsort
+install ===> usr.bin/tty
+install ===> usr.bin/ul
+install ===> usr.bin/uname
+install ===> usr.bin/unexpand
+install ===> usr.bin/unifdef
+install ===> usr.bin/uniq
+install ===> usr.bin/units
+install ===> usr.bin/unvis
+install ===> usr.bin/unzip
+install ===> usr.bin/users
+install ===> usr.bin/uudecode
+install ===> usr.bin/uuencode
+install ===> usr.bin/uuidgen
+install ===> usr.bin/vis
+install ===> usr.bin/w
+install ===> usr.bin/wall
+install ===> usr.bin/wc
+install ===> usr.bin/what
+install ===> usr.bin/whereis
+install ===> usr.bin/who
+install ===> usr.bin/whois
+install ===> usr.bin/write
+install ===> usr.bin/xargs
+install ===> usr.bin/xinstall
+install ===> usr.bin/xstr
+install ===> usr.bin/yes
+install ===> usr.bin/apropos
+install ===> usr.bin/whatis
+install ===> usr.bin/bdes
+install ===> usr.bin/soelim
+install ===> usr.bin/gzip
+install ===> usr.sbin
+install ===> usr.sbin/chroot
+install ===> usr.sbin/i2cscan
+install ===> usr.sbin/installboot
+install ===> usr.sbin/link
+install ===> usr.sbin/mtree
+install ===> usr.sbin/pwd_mkdb
+install ===> usr.sbin/postinstall
+install ===> usr.sbin/rdate
+install ===> usr.sbin/traceroute
+install ===> usr.sbin/unlink
+install ===> usr.sbin/user
+install ===> usr.sbin/vipw
+install ===> usr.sbin/vnconfig
+install ===> usr.sbin/zic
+install ===> share
+install ===> share/misc
+install ===> share/mk
+install ===> share/terminfo
+install ===> share/zoneinfo
+     create  zoneinfo/posix_only
+     create  US/Pacific
+install ===> sys
+install ===> sys/arch
+install ===> sys/arch/i386
+install ===> sys/arch/i386/include
+install ===> sys/arch/i386/stand
+install ===> sys/arch/i386/stand/mbr
+install ===> sys/arch/i386/stand/mbr/mbr
+install ===> sys/arch/i386/stand/mbr/mbr_bootsel
+install ===> sys/arch/i386/stand/mbr/mbr_ext
+install ===> sys/arch/i386/stand/mbr/mbr_com0
+install ===> sys/arch/i386/stand/mbr/mbr_com0_9600
+install ===> sys/arch/i386/stand/mbr/gptmbr
+install ===> sys/arch/i386/stand/boot
+install ===> sys/arch/i386/stand/boot/biosboot
+install ===> sys/arch/i386/stand/bootxx
+install ===> sys/arch/i386/stand/bootxx/bootxx_ffsv1
+install ===> sys/arch/i386/stand/bootxx/bootxx_minixfs3
+install ===> sys/arch/i386/stand/bootxx/bootxx_ext2fs
+install ===> sys/arch/i386/stand/cdboot
+install ===> sys/arch/i386/../x86/include
+install ===> sys/dev
+install ===> sys/dev/i2c
+install ===> sys/fs
+install ===> sys/fs/cd9660
+install ===> sys/fs/msdosfs
+install ===> sys/fs/puffs
+install ===> sys/net
+install ===> sys/netinet
+install ===> sys/netinet6
+install ===> sys/sys
+install ===> sys/ufs
+install ===> sys/ufs/ffs
+install ===> sys/ufs/lfs
+install ===> sys/ufs/mfs
+install ===> sys/ufs/ufs
+install ===> sys/ufs/ext2fs
+install ===> sys/uvm
+install ===> tests
+install ===> tests/bin
+install ===> tests/bin/cat
+install ===> tests/bin/cp
+install ===> tests/bin/dd
+install ===> tests/bin/df
+install ===> tests/bin/expr
+install ===> tests/bin/pax
+install ===> tests/bin/ps
+install ===> tests/bin/sh
+install ===> tests/bin/sleep
+install ===> tests/bin/tar
+install ===> tests/dev
+install ===> tests/dev/cgd
+install ===> tests/dev/raidframe
+install ===> tests/games
+install ===> tests/include
+install ===> tests/include/machine
+install ===> tests/include/sys
+install ===> tests/lib
+install ===> tests/lib/csu
+install ===> tests/lib/csu/dso
+install ===> tests/lib/libc
+install ===> tests/lib/libc/tls_dso
+install ===> tests/lib/libc/db
+install ===> tests/lib/libc/hash
+install ===> tests/lib/libc/inet
+install ===> tests/lib/libc/locale
+install ===> tests/lib/libc/net
+install ===> tests/lib/libc/regex
+install ===> tests/lib/libc/stdlib
+install ===> tests/lib/libc/stdio
+install ===> tests/lib/libc/string
+install ===> tests/lib/libc/termios
+install ===> tests/lib/libc/time
+install ===> tests/lib/libcrypt
+install ===> tests/lib/libcurses
+install ===> tests/lib/libcurses/director
+install ===> tests/lib/libcurses/slave
+install ===> tests/lib/libcurses/tests
+install ===> tests/lib/libcurses/check_files
+install ===> tests/lib/libexecinfo
+install ===> tests/lib/libm
+install ===> tests/lib/libprop
+install ===> tests/lib/libutil
+install ===> tests/libexec
+install ===> tests/sbin
+install ===> tests/sbin/fsck_ffs
+install ===> tests/sbin/ifconfig
+install ===> tests/sbin/newfs
+install ===> tests/sbin/newfs_msdos
+install ===> tests/sbin/resize_ffs
+install ===> tests/sbin/route
+install ===> tests/sbin/sysctl
+install ===> tests/sys
+install ===> tests/sys/rc
+install ===> tests/usr.bin
+install ===> tests/usr.bin/awk
+install ===> tests/usr.bin/basename
+install ===> tests/usr.bin/bzip2
+install ===> tests/usr.bin/cc
+install ===> tests/usr.bin/cmp
+install ===> tests/usr.bin/config
+install ===> tests/usr.bin/config/support
+install ===> tests/usr.bin/config/support/arch
+install ===> tests/usr.bin/config/support/arch/regress
+install ===> tests/usr.bin/config/support/arch/regress/conf
+install ===> tests/usr.bin/config/support/conf
+install ===> tests/usr.bin/cut
+install ===> tests/usr.bin/diff
+install ===> tests/usr.bin/dirname
+install ===> tests/usr.bin/find
+install ===> tests/usr.bin/grep
+install ===> tests/usr.bin/gzip
+install ===> tests/usr.bin/id
+install ===> tests/usr.bin/infocmp
+install ===> tests/usr.bin/jot
+install ===> tests/usr.bin/m4
+install ===> tests/usr.bin/make
+install ===> tests/usr.bin/mkdep
+install ===> tests/usr.bin/nbperf
+install ===> tests/usr.bin/netpgpverify
+install ===> tests/usr.bin/pr
+install ===> tests/usr.bin/rump_server
+install ===> tests/usr.bin/shmif_dumpbus
+install ===> tests/usr.bin/sdiff
+install ===> tests/usr.bin/sed
+install ===> tests/usr.bin/sort
+install ===> tests/usr.bin/tmux
+install ===> tests/usr.bin/tr
+install ===> tests/usr.bin/unifdef
+install ===> tests/usr.bin/xlint
+install ===> tests/usr.bin/xlint/lint1
+install ===> tests/usr.sbin
+install ===> tests/usr.sbin/mtree
+install ===> tests/usr.sbin/tcpdump
+install ===> tests/usr.sbin/traceroute
+install ===> tests/usr.sbin/useradd
+install ===> tests/share
+install ===> tests/share/examples
+install ===> tests/share/mk
+install ===> minix
+install ===> minix/include
+install ===> minix/include/arch
+install ===> minix/include/arch/i386
+install ===> minix/include/arch/i386/include
+install ===> minix/include/ddekit
+install ===> minix/include/ddekit/minix
+install ===> minix/include/libdde
+install ===> minix/include/minix
+install ===> minix/include/net
+install ===> minix/include/net/gen
+install ===> minix/include/sys
+install ===> minix/benchmarks
+install ===> minix/benchmarks/unixbench-5.1.2
+install ===> minix/benchmarks/unixbench-5.1.2/pgms
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/arithoh
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/register
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/short
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/int
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/long
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/float
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/double
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/whetstone-double
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/hanoi
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/poll
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/select
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/fstime
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/syscall
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/context1
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/pipe
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/spawn
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/execl
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/dhry2
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/dhry2reg
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/looper
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/multi.sh
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/tst.sh
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/unixbench.logo
+install ===> minix/benchmarks/unixbench-5.1.2/pgms/index.base
+install ===> minix/benchmarks/unixbench-5.1.2/testdir
+install ===> minix/benchmarks/unixbench-5.1.2/testdir/cctest.c
+install ===> minix/benchmarks/unixbench-5.1.2/testdir/dc.dat
+install ===> minix/benchmarks/unixbench-5.1.2/testdir/large.txt
+install ===> minix/benchmarks/unixbench-5.1.2/testdir/sort.src
+install ===> minix/benchmarks/unixbench-5.1.2/run.sh
+install ===> minix/bin
+install ===> minix/commands
+install ===> minix/commands/add_route
+install ===> minix/commands/arp
+install ===> minix/commands/at
+install ===> minix/commands/backup
+install ===> minix/commands/btrace
+install ===> minix/commands/cawf
+install ===> minix/commands/cdprobe
+install ===> minix/commands/ci
+install ===> minix/commands/cleantmp
+install ===> minix/commands/cmp
+install ===> minix/commands/co
+install ===> minix/commands/compress
+install ===> minix/commands/crc
+install ===> minix/commands/cron
+install ===> minix/commands/crontab
+install ===> minix/commands/dd
+install ===> minix/commands/decomp16
+install ===> minix/commands/DESCRIBE
+install ===> minix/commands/devmand
+install ===> minix/commands/devsize
+install ===> minix/commands/dhcpd
+install ===> minix/commands/dhrystone
+install ===> minix/commands/diff
+install ===> minix/commands/diskctl
+install ===> minix/commands/eject
+install ===> minix/commands/fbdctl
+install ===> minix/commands/find
+install ===> minix/commands/fix
+install ===> minix/commands/format
+install ===> minix/commands/fsck.mfs
+install ===> minix/commands/gcov-pull
+install ===> minix/commands/grep
+install ===> minix/commands/host
+install ===> minix/commands/hostaddr
+install ===> minix/commands/ifconfig
+install ===> minix/commands/ifdef
+install ===> minix/commands/intr
+install ===> minix/commands/ipcrm
+install ===> minix/commands/ipcs
+install ===> minix/commands/irdpd
+install ===> minix/commands/isoread
+install ===> minix/commands/loadkeys
+install ===> minix/commands/loadramdisk
+install ===> minix/commands/logger
+install ===> minix/commands/look
+install ===> minix/commands/lp
+install ===> minix/commands/lpd
+install ===> minix/commands/lspci
+install ===> minix/commands/mail
+install ===> minix/commands/MAKEDEV
+install ===> minix/commands/mined
+install ===> minix/commands/mount
+install ===> minix/commands/mt
+install ===> minix/commands/netconf
+install ===> minix/commands/nonamed
+install ===> minix/commands/postinstall
+install ===> minix/commands/prep
+install ===> minix/commands/printroot
+install ===> minix/commands/profile
+install ===> minix/commands/progressbar
+install ===> minix/commands/pr_routes
+install ===> minix/commands/ps
+install ===> minix/commands/pwdauth
+install ===> minix/commands/ramdisk
+install ===> minix/commands/rarpd
+install ===> minix/commands/rawspeed
+install ===> minix/commands/rcp
+install ===> minix/commands/readclock
+install ===> minix/commands/remsync
+install ===> minix/commands/rget
+install ===> minix/commands/rlogin
+install ===> minix/commands/rotate
+install ===> minix/commands/rsh
+install ===> minix/commands/rshd
+install ===> minix/commands/service
+install ===> minix/commands/setup
+install ===> minix/commands/slip
+install ===> minix/commands/spell
+install ===> minix/commands/sprofalyze
+install ===> minix/commands/sprofdiff
+install ===> minix/commands/srccrc
+install ===> minix/commands/svclog
+install ===> minix/commands/svrctl
+install ===> minix/commands/swifi
+install ===> minix/commands/synctree
+install ===> minix/commands/sysenv
+install ===> minix/commands/syslogd
+install ===> minix/commands/tcpd
+install ===> minix/commands/tcpdp
+install ===> minix/commands/tcpstat
+install ===> minix/commands/telnet
+install ===> minix/commands/telnetd
+install ===> minix/commands/term
+install ===> minix/commands/termcap
+install ===> minix/commands/tget
+install ===> minix/commands/time
+install ===> minix/commands/truncate
+install ===> minix/commands/udpstat
+install ===> minix/commands/umount
+install ===> minix/commands/update
+install ===> minix/commands/version
+install ===> minix/commands/vol
+install ===> minix/commands/writeisofs
+install ===> minix/commands/fetch
+install ===> minix/commands/zdump
+install ===> minix/commands/zmodem
+install ===> minix/commands/pkgin_cd
+install ===> minix/commands/pkgin_all
+install ===> minix/commands/pkgin_sets
+install ===> minix/commands/worldstone
+install ===> minix/commands/updateboot
+install ===> minix/commands/update_bootcfg
+install ===> minix/commands/atnormalize
+install ===> minix/commands/dosread
+install ===> minix/commands/fdisk
+install ===> minix/commands/loadfont
+install ===> minix/commands/autopart
+install ===> minix/commands/part
+install ===> minix/commands/partition
+install ===> minix/commands/playwave
+install ===> minix/commands/recwave
+install ===> minix/commands/repartition
+install ===> minix/commands/screendump
+install ===> minix/fs
+install ===> minix/fs/mfs
+install ===> minix/fs/pfs
+install ===> minix/fs/ext2
+install ===> minix/fs/procfs
+install ===> minix/fs/hgfs
+install ===> minix/fs/vbfs
+install ===> minix/kernel
+install ===> minix/lib
+install ===> minix/lib/libsys
+install ===> minix/lib/libmthread
+install ===> minix/lib/libasyn
+install ===> minix/lib/libaudiodriver
+install ===> minix/lib/libbdev
+install ===> minix/lib/libblockdriver
+install ===> minix/lib/libchardriver
+install ===> minix/lib/libddekit
+install ===> minix/lib/libddekit/build
+install ===> minix/lib/libddekit/build/ddekit
+install ===> minix/lib/libddekit/build/ddekit_usb_client
+install ===> minix/lib/libddekit/build/ddekit_usb_server
+install ===> minix/lib/libdevman
+install ===> minix/lib/libexec
+install ===> minix/lib/libfetch
+install ===> minix/lib/libinputdriver
+install ===> minix/lib/libminc
+install ===> minix/lib/libminixfs
+install ===> minix/lib/libnetdriver
+install ===> minix/lib/libsffs
+install ===> minix/lib/libtimers
+install ===> minix/lib/libusb
+install ===> minix/lib/libvtreefs
+install ===> minix/lib/libgcc_s_empty
+install ===> minix/lib/liblwip
+install ===> minix/lib/libnetsock
+install ===> minix/lib/libhgfs
+install ===> minix/lib/libvassert
+install ===> minix/lib/libvboxfs
+install ===> minix/lib/libvirtio
+install ===> minix/llvm
+install ===> minix/man
+install ===> minix/man/man1
+install ===> minix/man/man1x
+install ===> minix/man/man2
+install ===> minix/man/man4
+install ===> minix/man/man5
+install ===> minix/man/man7
+install ===> minix/man/man8
+install ===> minix/man/man9
+install ===> minix/net
+install ===> minix/net/inet
+install ===> minix/net/lwip
+install ===> minix/sbin
+install ===> minix/servers
+install ===> minix/servers/ds
+install ===> minix/servers/input
+install ===> minix/servers/pm
+    install  /service/pm
+install ===> minix/servers/rs
+install ===> minix/servers/sched
+install ===> minix/servers/vfs
+install ===> minix/servers/vm
+install ===> minix/servers/ipc
+install ===> minix/servers/is
+install ===> minix/servers/devman
+install ===> minix/share
+install ===> minix/tests
+install ===> minix/tests/blocktest
+install ===> minix/tests/ddekit
+install ===> minix/usr.bin
+install ===> minix/usr.bin/ministat
+install ===> minix/usr.bin/top
+install ===> minix/usr.bin/toproto
+install ===> minix/usr.sbin
+install ===> minix/usr.sbin/mkfs.mfs
+install ===> minix/usr.sbin/mkfs.mfs/v3
+install ===> minix/usr.sbin/mkproto
+install ===> minix/drivers
+install ===> minix/drivers/audio
+install ===> minix/drivers/audio/es1370
+install ===> minix/drivers/audio/es1371
+install ===> minix/drivers/audio/sb16
+install ===> minix/drivers/clock
+install ===> minix/drivers/clock/readclock
+install ===> minix/drivers/eeprom
+install ===> minix/drivers/examples
+install ===> minix/drivers/examples/hello
+install ===> minix/drivers/iommu
+install ===> minix/drivers/iommu/amddev
+install ===> minix/drivers/net
+install ===> minix/drivers/net/atl2
+install ===> minix/drivers/net/dec21140A
+install ===> minix/drivers/net/dp8390
+install ===> minix/drivers/net/dpeth
+install ===> minix/drivers/net/e1000
+install ===> minix/drivers/net/fxp
+install ===> minix/drivers/net/lance
+install ===> minix/drivers/net/orinoco
+install ===> minix/drivers/net/rtl8139
+install ===> minix/drivers/net/rtl8169
+install ===> minix/drivers/net/virtio_net
+install ===> minix/drivers/net/uds
+install ===> minix/drivers/power
+install ===> minix/drivers/power/acpi
+install ===> minix/drivers/printer
+install ===> minix/drivers/printer/printer
+install ===> minix/drivers/sensors
+install ===> minix/drivers/system
+install ===> minix/drivers/system/log
+install ===> minix/drivers/system/random
+install ===> minix/drivers/usb
+install ===> minix/drivers/usb/usb_storage
+install ===> minix/drivers/usb/usb_hub
+install ===> minix/drivers/video
+install ===> minix/drivers/vmm_guest
+install ===> minix/drivers/vmm_guest/vbox
+install ===> minix/drivers/bus
+install ===> minix/drivers/bus/ti1225
+install ===> minix/drivers/bus/pci
+install ===> minix/drivers/tty
+install ===> minix/drivers/tty/pty
+install ===> minix/drivers/tty/tty
+install ===> minix/drivers/tty/tty/keymaps
+install ===> minix/drivers/hid
+install ===> minix/drivers/hid/pckbd
+install ===> minix/drivers/storage
+install ===> minix/drivers/storage/ahci
+install ===> minix/drivers/storage/fbd
+install ===> minix/drivers/storage/filter
+install ===> minix/drivers/storage/virtio_blk
+install ===> minix/drivers/storage/mmc
+install ===> minix/drivers/storage/vnd
+install ===> minix/drivers/storage/at_wini
+install ===> minix/drivers/storage/floppy
+install ===> minix/drivers/storage/ramdisk
+install ===> minix/drivers/storage/memory
+    install  /service/memory
+makedb ===> minix/man
+postinstall-check ===> .
+   === Post installation checks ===
+Source directory: /usr/src
+Target directory: /
+bluetooth check:
+	/usr/src/etc/bluetooth is not a directory; skipping check
+ddbonpanic check:
+	The ddb.onpanic behaviour is not explicitly specified in /etc/sysctl.conf
+defaults check:
+	/etc/defaults/daily.conf does not exist
+	/etc/defaults/monthly.conf does not exist
+	/etc/defaults/pkgpath.conf does not exist
+	/etc/defaults/security.conf does not exist
+	/etc/defaults/weekly.conf does not exist
+	Can't find source directory for pf.boot.conf
+dhcpcd check:
+	Can't find source directory for dhcpcd.conf
+envsys check:
+	/etc/envsys.conf does not exist
+	/usr/src/etc/powerd/scripts is not a directory; skipping check
+fontconfig check:
+	/usr/src/../xsrc/external/mit/fontconfig/dist/conf.d is not a directory; skipping check
+gid check:
+	Error groups: _tss (missing) staff (missing) sshd (44 != 16) ntpd (missing) _rtadvd (missing) _gpio (missing) named (missing)
+gpio check:
+	/etc/gpio.conf does not exist
+hosts check:
+	/etc/hosts needs the following changes:
+iscsi check:
+	/usr/src/etc/iscsi is not a directory; skipping check
+	/usr/src/etc/iscsi is not a directory; skipping check
+makedev check:
+	Can't find source directory for MAKEDEV
+motd check:
+mtree check:
+named check:
+	/usr/src/etc/namedb is not a directory; skipping check
+pam check:
+	/usr/src/etc/pam.d is not a directory; skipping check
+periodic check:
+	/etc/daily does not exist
+	/etc/weekly does not exist
+	/etc/monthly does not exist
+	/etc/security does not exist
+pf check:
+	Can't find source directory for pf.os
+pwd_mkdb check:
+	Update format of passwd database
+rc check:
+	/usr/src/etc/rc.d is not a directory; skipping check
+ssh check:
+	/etc/ssh is not a directory
+	Can't find source directory for moduli
+	/var/chroot/sshd is not a directory
+wscons check:
+x11 check:
+xkb check:
+uid check:
+	Error users: _tss (missing) _tcpdump (missing) _rwhod (missing) sshd (22 != 16) ntpd (missing) _mdnsd (missing) _rtadvd (missing) named (missing) _pflogd (missing) _timedc (missing) _sdpd (missing) _httpd (missing) _proxy (missing) postfix (27 != 12) _tests (missing)
+varrwho check:
+tcpdumpchroot check:
+atf check:
+	/etc/atf/NetBSD.conf does not exist
+	/etc/atf/common.conf does not exist
+	/etc/atf/atf-run.hooks does not exist
+catpages check:
+obsolete check:
+	Remove obsolete directory /usr/tests/atf/tools
+	Remove obsolete directory /usr/libdata/debug/usr/tests/atf/tools
+ptyfsoldnodes check:
+	ptyfs is not in use
+postinstall checks passed: motd mtree wscons x11 xkb varrwho tcpdumpchroot catpages ptyfsoldnodes
+postinstall checks failed: bluetooth ddbonpanic defaults dhcpcd envsys fontconfig gid gpio hosts iscsi makedev named pam periodic pf pwd_mkdb rc ssh uid atf obsolete
+To fix, run:
+    /bin/sh /usr/src/usr.sbin/postinstall/postinstall -s '/usr/src' -d / fix bluetooth ddbonpanic defaults dhcpcd envsys fontconfig gid gpio hosts iscsi makedev named pam periodic pf pwd_mkdb rc ssh uid atf obsolete
+Note that this may overwrite local changes.
+   ================================
+do-obsolete ===> .
+install-obsolete-lists ===> etc
+    install  /var/db/obsolete/minix
+    install  /var/db/obsolete/tests
+install-etc-release ===> etc
+     create  etc/etc-release
+    install  etc/release
+install-etc-files-safe ===> etc	(with: DESTDIR=/)
+    install  //etc/ttys
+    install  //var/games/tetris.scores
+    install  ///usr/etc/daily
+    install  ///usr/etc/dhcptags.conf
+    install  ///usr/etc/rc
+    install  ///usr/lib/crontab
+    install  ///etc/system.conf
+    install  ///usr/Makefile
+    install  ///etc/devmand/usb_hub.cfg
+    install  ///etc/devmand/usb_storage.cfg
+    install  ///etc/devmand/scripts/block
+    install  ///etc/devmand/scripts/singlechar
+    install  ///usr/ast/.exrc ///usr/ast/.profile
+    install  ///root/.exrc ///root/.profile
+configinstall ===> etc
+configinstall ===> etc/defaults
+configinstall ===> etc/mtree
+    install  //usr/lib/fonts
+do-hdboot ===> releasetools
+install -N /usr/src/etc -c -p -r ../minix/servers/ds/ds /boot/minix/.temp/mod01_ds
+install -N /usr/src/etc -c -p -r ../minix/servers/rs/rs /boot/minix/.temp/mod02_rs
+install -N /usr/src/etc -c -p -r ../minix/servers/pm/pm /boot/minix/.temp/mod03_pm
+install -N /usr/src/etc -c -p -r ../minix/servers/sched/sched /boot/minix/.temp/mod04_sched
+install -N /usr/src/etc -c -p -r ../minix/servers/vfs/vfs /boot/minix/.temp/mod05_vfs
+install -N /usr/src/etc -c -p -r ../minix/drivers/storage/memory/memory /boot/minix/.temp/mod06_memory
+install -N /usr/src/etc -c -p -r ../minix/drivers/tty/tty/tty /boot/minix/.temp/mod07_tty
+install -N /usr/src/etc -c -p -r ../minix/fs/mfs/mfs /boot/minix/.temp/mod08_mfs
+install -N /usr/src/etc -c -p -r ../minix/servers/vm/vm /boot/minix/.temp/mod09_vm
+install -N /usr/src/etc -c -p -r ../minix/fs/pfs/pfs /boot/minix/.temp/mod10_pfs
+install -N /usr/src/etc -c -p -r ../sbin/init/init /boot/minix/.temp/mod11_init
+rm /dev/c0d0p0s0:/boot/minix/3.3.0
+Done.
+Build started at:  Thu Jan 12 16:17:19 IST 2023
+Build finished at: Thu Jan 12 16:19:46 IST 2023
