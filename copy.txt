@@ -1,0 +1,18 @@
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+	      packedGitLimit = 128m
+  	    packedGitWindowSize = 128m
+[remote "origin"]
+        url = git@github.com:harrithha/minix.git
+        fetch = +refs/heads/*:refs/remotes/origin/*
+	      deltaCacheSize = 128m
+  	    packSizeLimit = 128m
+  	    windowMemory = 128m
+[branch "main"]
+        remote = origin
+        merge = refs/heads/main
+[http]
+  	    postbuffer = 5m
