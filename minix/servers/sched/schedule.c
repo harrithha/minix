@@ -326,7 +326,7 @@ static int schedule_process(struct schedproc * rmp, unsigned flags)
 	}
 	if (rmp->priority >= USER_Q && err==OK)
 	{
-		printf("PID: %d swapped in 200010048 200010018\n", _ENDPOINT_P(rmp->endpoint));
+		// printf("PID: %d swapped in 200010048 200010018\n", _ENDPOINT_P(rmp->endpoint));
 	}
 	return err;
 }

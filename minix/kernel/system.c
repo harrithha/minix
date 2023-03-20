@@ -664,8 +664,8 @@ int sched_proc(struct proc *p,
   if (quantum < 1 && quantum != -1)
     return (EINVAL);
 
-  printf("Minix: Allotted quantum is: %d , Used Quantum is : %d, 200010018 200010048\n", p->p_quantum_size_ms,
-         p->p_quantum_size_ms - cpu_time_2_ms(p->p_cpu_time_left));
+  // printf("Minix: Allotted quantum is: %d , Used Quantum is : %d, 200010018 200010048\n", p->p_quantum_size_ms,
+         // p->p_quantum_size_ms - cpu_time_2_ms(p->p_cpu_time_left));
 
 #ifdef CONFIG_SMP
   if ((cpu < 0 && cpu != -1) || (cpu > 0 && (unsigned)cpu >= ncpus))
